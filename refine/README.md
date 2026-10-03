@@ -127,16 +127,40 @@ All output goes under `refineHumanEvalComm/<EXPERIMENT>/` (set by `EXPERIMENT` i
 
 ```
 <llm>/<category>/
-├── baseline_batch_request.jsonl / baseline_batch_result.jsonl
+├── baseline_batch_request.jsonl / baseline_batch_result.jsonl(.gz)
 ├── baseline/
 │   ├── run0 … run9/          # one candidate file per task + stats.json
 │   └── aggregate.json        # per-task mean incoherence / error across runs
 └── refined/
     ├── questions_and_descriptions.json   # questions, desc1/desc2, oracle answer, audit flags
-    ├── *_batch_request.jsonl / *_batch_result.jsonl   # one pair per LLM step
+    ├── *_batch_request.jsonl / *_batch_result.jsonl(.gz)   # one pair per LLM step
     ├── run0 … run9/          # one candidate file per (task, question, branch) + stats.json
     └── aggregate.json
 ```
 
 Refined candidate files are named `humanevalcomm_<task_id>__<qkey>__<branch>`, where `branch` is
 `desc1`, `desc2` or `oracle`.
+
+### Encrypted reasoning removed
+
+The committed `*_batch_result.jsonl` files are the raw API responses with the encrypted reasoning
+removed. In `message.provider_specific_fields.reasoning_details`, the `data` field of every
+`reasoning.encrypted` entry and the `signature` field of `reasoning.text` entries are deleted.
+These fields are opaque, provider-encrypted messages that cannot be read or verified without the
+provider. They made up about two thirds of the file size and do not compress. Everything else
+is unchanged, including the candidate code (`message.content`), the readable reasoning summaries
+and text, token usage and costs. The pipeline does not use the removed fields.
+
+### Compressed result files
+
+Some `*_batch_result.jsonl` files still exceed GitHub's 100 MB file size limit after the encrypted
+reasoning is removed. Those are committed gzipped as `*_batch_result.jsonl.gz`, and the
+uncompressed file is listed in `.gitignore`. The pipeline reads the uncompressed `.jsonl`, so after
+cloning, decompress them in place (from the repository root):
+
+```bash
+find refine/refineHumanEvalComm/.HEC-experiment -name '*.jsonl.gz' -exec gunzip -k {} \;
+```
+
+To add a new large result file, run `gzip -k <file>`, commit the `.gz`, and add the uncompressed
+file to `.gitignore`.
