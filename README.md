@@ -1,3 +1,20 @@
+## About this repository
+
+This repository builds on the public implementation of DiffTrust, from the paper *"Estimating
+Correctness Without Oracles in LLM-Based Code Generation"*. 
+
+**Original work:** the `difftrust/` package (incoherence metrics, fuzzer, LLM
+wrappers), the HumanEval and MBPP experiments in `HumanEval/` and `MBPP/`, and the rest of this
+README, which describes them.
+
+**Our additions:** the HumanEvalComm dataset preparation in `HumanEvalComm/` and the
+clarifying-question refinement pipeline in `refine/`, described in
+[refine/README.md](refine/README.md), together with all experiment results under
+`refine/refineHumanEvalComm/.HEC-experiment/`. In the original code, we only added exact integer
+comparison to `NumericTypeHandler` in `difftrust/generic/generic_equal.py` and added dependencies
+to `requirements.txt`.
+
+
 # DiffTrust: Estimating Correctness Without Oracles in LLM-Based Code Generation
 
 This repository contains the implementation used in the experiments for the DiffTrust paper, which introduces *incoherence* as a theoretically grounded proxy for correctness in LLM-based code generation—designed to operate without access to ground-truth implementations or oracles.
@@ -25,6 +42,7 @@ This repository supports empirical evaluation of our new metrics across two popu
 │   ├── remove_duplicates.py
 │   ├── run.py
 │   └── stats.py
+├── HumanEvalComm                 # added: HumanEvalComm dataset preparation
 ├── MBPP
 │   ├── instance.py
 │   ├── remove_duplicates.py
@@ -73,6 +91,7 @@ This repository supports empirical evaluation of our new metrics across two popu
 │   └── tracing
 │       ├── events.py
 │       └── tracer.py
+├── refine                        # added: refinement pipeline, see refine/README.md
 └── requirements.txt
 
 ```
