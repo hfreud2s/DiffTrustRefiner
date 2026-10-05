@@ -146,10 +146,12 @@ Refined candidate files are named `humanevalcomm_<task_id>__<qkey>__<branch>`, w
 The committed `*_batch_result.jsonl` files are the raw API responses with the encrypted reasoning
 removed. In `message.provider_specific_fields.reasoning_details`, the `data` field of every
 `reasoning.encrypted` entry and the `signature` field of `reasoning.text` entries are deleted.
+For Anthropic models, the `signature` field of every entry in `message.thinking_blocks` and
+`message.provider_specific_fields.thinking_blocks` is deleted as well.
 These fields are opaque, provider-encrypted messages that cannot be read or verified without the
-provider. They made up about two thirds of the file size and do not compress. Everything else
-is unchanged, including the candidate code (`message.content`), the readable reasoning summaries
-and text, token usage and costs. The pipeline does not use the removed fields.
+provider. They made up most of the file size and do not compress. Everything else is unchanged,
+including the candidate code (`message.content`), the readable reasoning summaries and thinking
+text, token usage and costs. The pipeline does not use the removed fields.
 
 ### Compressed result files
 

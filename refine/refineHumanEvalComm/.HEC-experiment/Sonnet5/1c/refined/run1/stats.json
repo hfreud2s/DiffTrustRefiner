@@ -1,0 +1,6908 @@
+[
+  {
+    "key": "humanevalcomm_100__q1__desc1",
+    "task_id": 100,
+    "variant": "q1__desc1",
+    "name": "make_a_pile",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_100__q1__desc2",
+    "task_id": 100,
+    "variant": "q1__desc2",
+    "name": "make_a_pile",
+    "nb_candidates": 10,
+    "incoherence": 0.196
+  },
+  {
+    "key": "humanevalcomm_100__q1__oracle",
+    "task_id": 100,
+    "variant": "q1__oracle",
+    "name": "make_a_pile",
+    "nb_candidates": 10,
+    "incoherence": 0.57,
+    "error": 0.44
+  },
+  {
+    "key": "humanevalcomm_100__q2__desc1",
+    "task_id": 100,
+    "variant": "q2__desc1",
+    "name": "make_a_pile",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_100__q2__desc2",
+    "task_id": 100,
+    "variant": "q2__desc2",
+    "name": "make_a_pile",
+    "nb_candidates": 10,
+    "incoherence": 0.142
+  },
+  {
+    "key": "humanevalcomm_100__q2__oracle",
+    "task_id": 100,
+    "variant": "q2__oracle",
+    "name": "make_a_pile",
+    "nb_candidates": 10,
+    "incoherence": 0.215,
+    "error": 0.372
+  },
+  {
+    "key": "humanevalcomm_100__q3__desc1",
+    "task_id": 100,
+    "variant": "q3__desc1",
+    "name": "make_a_pile",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_100__q3__desc2",
+    "task_id": 100,
+    "variant": "q3__desc2",
+    "name": "make_a_pile",
+    "nb_candidates": 10,
+    "incoherence": 0.209
+  },
+  {
+    "key": "humanevalcomm_100__q3__oracle",
+    "task_id": 100,
+    "variant": "q3__oracle",
+    "name": "make_a_pile",
+    "nb_candidates": 10,
+    "incoherence": 0.195,
+    "error": 0.651
+  },
+  {
+    "key": "humanevalcomm_101__q1__desc1",
+    "task_id": 101,
+    "variant": "q1__desc1",
+    "name": "words_string",
+    "nb_candidates": 10,
+    "incoherence": 0.373
+  },
+  {
+    "key": "humanevalcomm_101__q1__desc2",
+    "task_id": 101,
+    "variant": "q1__desc2",
+    "name": "words_string",
+    "nb_candidates": 10,
+    "incoherence": 0.275
+  },
+  {
+    "key": "humanevalcomm_101__q1__oracle",
+    "task_id": 101,
+    "variant": "q1__oracle",
+    "name": "words_string",
+    "nb_candidates": 10,
+    "incoherence": 0.216,
+    "error": 0.107
+  },
+  {
+    "key": "humanevalcomm_101__q2__desc1",
+    "task_id": 101,
+    "variant": "q2__desc1",
+    "name": "words_string",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_101__q2__desc2",
+    "task_id": 101,
+    "variant": "q2__desc2",
+    "name": "words_string",
+    "nb_candidates": 10,
+    "incoherence": 0.065
+  },
+  {
+    "key": "humanevalcomm_101__q2__oracle",
+    "task_id": 101,
+    "variant": "q2__oracle",
+    "name": "words_string",
+    "nb_candidates": 10,
+    "incoherence": 0.213,
+    "error": 0.104
+  },
+  {
+    "key": "humanevalcomm_101__q3__desc1",
+    "task_id": 101,
+    "variant": "q3__desc1",
+    "name": "words_string",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_101__q3__desc2",
+    "task_id": 101,
+    "variant": "q3__desc2",
+    "name": "words_string",
+    "nb_candidates": 10,
+    "incoherence": 0.268
+  },
+  {
+    "key": "humanevalcomm_101__q3__oracle",
+    "task_id": 101,
+    "variant": "q3__oracle",
+    "name": "words_string",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_102__q1__desc1",
+    "task_id": 102,
+    "variant": "q1__desc1",
+    "name": "choose_num",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_102__q1__desc2",
+    "task_id": 102,
+    "variant": "q1__desc2",
+    "name": "choose_num",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_102__q1__oracle",
+    "task_id": 102,
+    "variant": "q1__oracle",
+    "name": "choose_num",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_102__q2__desc1",
+    "task_id": 102,
+    "variant": "q2__desc1",
+    "name": "choose_num",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_102__q2__desc2",
+    "task_id": 102,
+    "variant": "q2__desc2",
+    "name": "choose_num",
+    "nb_candidates": 10,
+    "incoherence": 0.175
+  },
+  {
+    "key": "humanevalcomm_102__q2__oracle",
+    "task_id": 102,
+    "variant": "q2__oracle",
+    "name": "choose_num",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_102__q3__desc1",
+    "task_id": 102,
+    "variant": "q3__desc1",
+    "name": "choose_num",
+    "nb_candidates": 10,
+    "incoherence": 0.196
+  },
+  {
+    "key": "humanevalcomm_102__q3__desc2",
+    "task_id": 102,
+    "variant": "q3__desc2",
+    "name": "choose_num",
+    "nb_candidates": 8,
+    "incoherence": 0.25
+  },
+  {
+    "key": "humanevalcomm_102__q3__oracle",
+    "task_id": 102,
+    "variant": "q3__oracle",
+    "name": "choose_num",
+    "nb_candidates": 9,
+    "incoherence": 0.351,
+    "error": 0.315
+  },
+  {
+    "key": "humanevalcomm_105__q1__desc1",
+    "task_id": 105,
+    "variant": "q1__desc1",
+    "name": "by_length",
+    "nb_candidates": 10,
+    "incoherence": 0.034
+  },
+  {
+    "key": "humanevalcomm_105__q1__desc2",
+    "task_id": 105,
+    "variant": "q1__desc2",
+    "name": "by_length",
+    "nb_candidates": 10,
+    "incoherence": 0.015
+  },
+  {
+    "key": "humanevalcomm_105__q1__oracle",
+    "task_id": 105,
+    "variant": "q1__oracle",
+    "name": "by_length",
+    "nb_candidates": 9,
+    "incoherence": 0.041,
+    "error": 0.028
+  },
+  {
+    "key": "humanevalcomm_105__q2__desc1",
+    "task_id": 105,
+    "variant": "q2__desc1",
+    "name": "by_length",
+    "nb_candidates": 9,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_105__q2__desc2",
+    "task_id": 105,
+    "variant": "q2__desc2",
+    "name": "by_length",
+    "nb_candidates": 10,
+    "incoherence": 0.002
+  },
+  {
+    "key": "humanevalcomm_105__q2__oracle",
+    "task_id": 105,
+    "variant": "q2__oracle",
+    "name": "by_length",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.056
+  },
+  {
+    "key": "humanevalcomm_105__q3__desc1",
+    "task_id": 105,
+    "variant": "q3__desc1",
+    "name": "by_length",
+    "nb_candidates": 8,
+    "incoherence": 0.011
+  },
+  {
+    "key": "humanevalcomm_105__q3__desc2",
+    "task_id": 105,
+    "variant": "q3__desc2",
+    "name": "by_length",
+    "nb_candidates": 1,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_105__q3__oracle",
+    "task_id": 105,
+    "variant": "q3__oracle",
+    "name": "by_length",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.068
+  },
+  {
+    "key": "humanevalcomm_108__q1__desc1",
+    "task_id": 108,
+    "variant": "q1__desc1",
+    "name": "count_nums",
+    "nb_candidates": 10,
+    "incoherence": 0.155
+  },
+  {
+    "key": "humanevalcomm_108__q1__desc2",
+    "task_id": 108,
+    "variant": "q1__desc2",
+    "name": "count_nums",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_108__q1__oracle",
+    "task_id": 108,
+    "variant": "q1__oracle",
+    "name": "count_nums",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_108__q2__desc1",
+    "task_id": 108,
+    "variant": "q2__desc1",
+    "name": "count_nums",
+    "nb_candidates": 10,
+    "incoherence": 0.407
+  },
+  {
+    "key": "humanevalcomm_108__q2__desc2",
+    "task_id": 108,
+    "variant": "q2__desc2",
+    "name": "count_nums",
+    "nb_candidates": 9,
+    "incoherence": 0.539
+  },
+  {
+    "key": "humanevalcomm_108__q2__oracle",
+    "task_id": 108,
+    "variant": "q2__oracle",
+    "name": "count_nums",
+    "nb_candidates": 7,
+    "incoherence": 0.382,
+    "error": 0.242
+  },
+  {
+    "key": "humanevalcomm_108__q3__desc1",
+    "task_id": 108,
+    "variant": "q3__desc1",
+    "name": "count_nums",
+    "nb_candidates": 10,
+    "incoherence": 0.474
+  },
+  {
+    "key": "humanevalcomm_108__q3__desc2",
+    "task_id": 108,
+    "variant": "q3__desc2",
+    "name": "count_nums",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_108__q3__oracle",
+    "task_id": 108,
+    "variant": "q3__oracle",
+    "name": "count_nums",
+    "nb_candidates": 8,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_109__q1__desc1",
+    "task_id": 109,
+    "variant": "q1__desc1",
+    "name": "move_one_ball",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_109__q1__desc2",
+    "task_id": 109,
+    "variant": "q1__desc2",
+    "name": "move_one_ball",
+    "nb_candidates": 10,
+    "incoherence": 0.489
+  },
+  {
+    "key": "humanevalcomm_109__q1__oracle",
+    "task_id": 109,
+    "variant": "q1__oracle",
+    "name": "move_one_ball",
+    "nb_candidates": 10,
+    "incoherence": 0.006,
+    "error": 0.013
+  },
+  {
+    "key": "humanevalcomm_109__q2__desc1",
+    "task_id": 109,
+    "variant": "q2__desc1",
+    "name": "move_one_ball",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_109__q2__desc2",
+    "task_id": 109,
+    "variant": "q2__desc2",
+    "name": "move_one_ball",
+    "nb_candidates": 9,
+    "incoherence": 0.348
+  },
+  {
+    "key": "humanevalcomm_109__q2__oracle",
+    "task_id": 109,
+    "variant": "q2__oracle",
+    "name": "move_one_ball",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.015
+  },
+  {
+    "key": "humanevalcomm_109__q3__desc1",
+    "task_id": 109,
+    "variant": "q3__desc1",
+    "name": "move_one_ball",
+    "nb_candidates": 10,
+    "incoherence": 0.004
+  },
+  {
+    "key": "humanevalcomm_109__q3__desc2",
+    "task_id": 109,
+    "variant": "q3__desc2",
+    "name": "move_one_ball",
+    "nb_candidates": 10,
+    "incoherence": 0.185
+  },
+  {
+    "key": "humanevalcomm_109__q3__oracle",
+    "task_id": 109,
+    "variant": "q3__oracle",
+    "name": "move_one_ball",
+    "nb_candidates": 10,
+    "incoherence": 0.002,
+    "error": 0.013
+  },
+  {
+    "key": "humanevalcomm_10__q1__desc1",
+    "task_id": 10,
+    "variant": "q1__desc1",
+    "name": "make_palindrome",
+    "nb_candidates": 2,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_10__q1__desc2",
+    "task_id": 10,
+    "variant": "q1__desc2",
+    "name": "make_palindrome",
+    "nb_candidates": 6,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_10__q2__desc1",
+    "task_id": 10,
+    "variant": "q2__desc1",
+    "name": "make_palindrome",
+    "nb_candidates": 2,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_10__q2__desc2",
+    "task_id": 10,
+    "variant": "q2__desc2",
+    "name": "make_palindrome",
+    "nb_candidates": 3,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_10__q2__oracle",
+    "task_id": 10,
+    "variant": "q2__oracle",
+    "name": "make_palindrome",
+    "nb_candidates": 2,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_10__q3__desc1",
+    "task_id": 10,
+    "variant": "q3__desc1",
+    "name": "make_palindrome",
+    "nb_candidates": 1,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_10__q3__desc2",
+    "task_id": 10,
+    "variant": "q3__desc2",
+    "name": "make_palindrome",
+    "nb_candidates": 1,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_10__q3__oracle",
+    "task_id": 10,
+    "variant": "q3__oracle",
+    "name": "make_palindrome",
+    "nb_candidates": 3,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_111__q1__desc1",
+    "task_id": 111,
+    "variant": "q1__desc1",
+    "name": "histogram",
+    "nb_candidates": 10,
+    "incoherence": 0.002
+  },
+  {
+    "key": "humanevalcomm_111__q1__desc2",
+    "task_id": 111,
+    "variant": "q1__desc2",
+    "name": "histogram",
+    "nb_candidates": 10,
+    "incoherence": 0.02
+  },
+  {
+    "key": "humanevalcomm_111__q1__oracle",
+    "task_id": 111,
+    "variant": "q1__oracle",
+    "name": "histogram",
+    "nb_candidates": 10,
+    "incoherence": 0.001,
+    "error": 0.288
+  },
+  {
+    "key": "humanevalcomm_111__q2__desc1",
+    "task_id": 111,
+    "variant": "q2__desc1",
+    "name": "histogram",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_111__q2__desc2",
+    "task_id": 111,
+    "variant": "q2__desc2",
+    "name": "histogram",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_111__q2__oracle",
+    "task_id": 111,
+    "variant": "q2__oracle",
+    "name": "histogram",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.077
+  },
+  {
+    "key": "humanevalcomm_111__q3__desc1",
+    "task_id": 111,
+    "variant": "q3__desc1",
+    "name": "histogram",
+    "nb_candidates": 10,
+    "incoherence": 0.051
+  },
+  {
+    "key": "humanevalcomm_111__q3__desc2",
+    "task_id": 111,
+    "variant": "q3__desc2",
+    "name": "histogram",
+    "nb_candidates": 10,
+    "incoherence": 0.017
+  },
+  {
+    "key": "humanevalcomm_111__q3__oracle",
+    "task_id": 111,
+    "variant": "q3__oracle",
+    "name": "histogram",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.328
+  },
+  {
+    "key": "humanevalcomm_113__q1__desc1",
+    "task_id": 113,
+    "variant": "q1__desc1",
+    "name": "odd_count",
+    "nb_candidates": 10,
+    "incoherence": 0.003
+  },
+  {
+    "key": "humanevalcomm_113__q1__desc2",
+    "task_id": 113,
+    "variant": "q1__desc2",
+    "name": "odd_count",
+    "nb_candidates": 10,
+    "incoherence": 0.075
+  },
+  {
+    "key": "humanevalcomm_113__q1__oracle",
+    "task_id": 113,
+    "variant": "q1__oracle",
+    "name": "odd_count",
+    "nb_candidates": 10,
+    "incoherence": 0.012,
+    "error": 0.016
+  },
+  {
+    "key": "humanevalcomm_113__q2__desc1",
+    "task_id": 113,
+    "variant": "q2__desc1",
+    "name": "odd_count",
+    "nb_candidates": 10,
+    "incoherence": 0.016
+  },
+  {
+    "key": "humanevalcomm_113__q2__desc2",
+    "task_id": 113,
+    "variant": "q2__desc2",
+    "name": "odd_count",
+    "nb_candidates": 10,
+    "incoherence": 0.015
+  },
+  {
+    "key": "humanevalcomm_113__q2__oracle",
+    "task_id": 113,
+    "variant": "q2__oracle",
+    "name": "odd_count",
+    "nb_candidates": 10,
+    "incoherence": 0.015,
+    "error": 0.034
+  },
+  {
+    "key": "humanevalcomm_113__q3__desc1",
+    "task_id": 113,
+    "variant": "q3__desc1",
+    "name": "odd_count",
+    "nb_candidates": 10,
+    "incoherence": 0.022
+  },
+  {
+    "key": "humanevalcomm_113__q3__desc2",
+    "task_id": 113,
+    "variant": "q3__desc2",
+    "name": "odd_count",
+    "nb_candidates": 10,
+    "incoherence": 0.073
+  },
+  {
+    "key": "humanevalcomm_113__q3__oracle",
+    "task_id": 113,
+    "variant": "q3__oracle",
+    "name": "odd_count",
+    "nb_candidates": 10,
+    "incoherence": 0.005,
+    "error": 0.038
+  },
+  {
+    "key": "humanevalcomm_115__q1__desc1",
+    "task_id": 115,
+    "variant": "q1__desc1",
+    "name": "max_fill",
+    "nb_candidates": 4,
+    "incoherence": 0.574
+  },
+  {
+    "key": "humanevalcomm_115__q1__desc2",
+    "task_id": 115,
+    "variant": "q1__desc2",
+    "name": "max_fill",
+    "nb_candidates": 6,
+    "incoherence": 0.101
+  },
+  {
+    "key": "humanevalcomm_115__q1__oracle",
+    "task_id": 115,
+    "variant": "q1__oracle",
+    "name": "max_fill",
+    "nb_candidates": 10,
+    "incoherence": 0.056,
+    "error": 0.03
+  },
+  {
+    "key": "humanevalcomm_115__q2__desc1",
+    "task_id": 115,
+    "variant": "q2__desc1",
+    "name": "max_fill",
+    "nb_candidates": 10,
+    "incoherence": 0.116
+  },
+  {
+    "key": "humanevalcomm_115__q2__desc2",
+    "task_id": 115,
+    "variant": "q2__desc2",
+    "name": "max_fill",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_115__q2__oracle",
+    "task_id": 115,
+    "variant": "q2__oracle",
+    "name": "max_fill",
+    "nb_candidates": 10,
+    "incoherence": 0.089,
+    "error": 0.196
+  },
+  {
+    "key": "humanevalcomm_115__q3__desc1",
+    "task_id": 115,
+    "variant": "q3__desc1",
+    "name": "max_fill",
+    "nb_candidates": 10,
+    "incoherence": 0.049
+  },
+  {
+    "key": "humanevalcomm_115__q3__desc2",
+    "task_id": 115,
+    "variant": "q3__desc2",
+    "name": "max_fill",
+    "nb_candidates": 10,
+    "incoherence": 0.129
+  },
+  {
+    "key": "humanevalcomm_115__q3__oracle",
+    "task_id": 115,
+    "variant": "q3__oracle",
+    "name": "max_fill",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_116__q1__desc1",
+    "task_id": 116,
+    "variant": "q1__desc1",
+    "name": "sort_array",
+    "nb_candidates": 10,
+    "incoherence": 0.262
+  },
+  {
+    "key": "humanevalcomm_116__q1__desc2",
+    "task_id": 116,
+    "variant": "q1__desc2",
+    "name": "sort_array",
+    "nb_candidates": 8,
+    "incoherence": 0.582
+  },
+  {
+    "key": "humanevalcomm_116__q1__oracle",
+    "task_id": 116,
+    "variant": "q1__oracle",
+    "name": "sort_array",
+    "nb_candidates": 9,
+    "incoherence": 0.107,
+    "error": 0.48
+  },
+  {
+    "key": "humanevalcomm_116__q2__desc1",
+    "task_id": 116,
+    "variant": "q2__desc1",
+    "name": "sort_array",
+    "nb_candidates": 8,
+    "incoherence": 0.207
+  },
+  {
+    "key": "humanevalcomm_116__q2__desc2",
+    "task_id": 116,
+    "variant": "q2__desc2",
+    "name": "sort_array",
+    "nb_candidates": 2,
+    "incoherence": 1.0
+  },
+  {
+    "key": "humanevalcomm_116__q2__oracle",
+    "task_id": 116,
+    "variant": "q2__oracle",
+    "name": "sort_array",
+    "nb_candidates": 4,
+    "incoherence": 0.717,
+    "error": 0.757
+  },
+  {
+    "key": "humanevalcomm_116__q3__desc1",
+    "task_id": 116,
+    "variant": "q3__desc1",
+    "name": "sort_array",
+    "nb_candidates": 9,
+    "incoherence": 0.311
+  },
+  {
+    "key": "humanevalcomm_116__q3__desc2",
+    "task_id": 116,
+    "variant": "q3__desc2",
+    "name": "sort_array",
+    "nb_candidates": 3,
+    "incoherence": 0.709
+  },
+  {
+    "key": "humanevalcomm_116__q3__oracle",
+    "task_id": 116,
+    "variant": "q3__oracle",
+    "name": "sort_array",
+    "nb_candidates": 6,
+    "incoherence": 0.327,
+    "error": 0.954
+  },
+  {
+    "key": "humanevalcomm_117__q1__desc1",
+    "task_id": 117,
+    "variant": "q1__desc1",
+    "name": "select_words",
+    "nb_candidates": 10,
+    "incoherence": 0.014
+  },
+  {
+    "key": "humanevalcomm_117__q1__desc2",
+    "task_id": 117,
+    "variant": "q1__desc2",
+    "name": "select_words",
+    "nb_candidates": 7,
+    "incoherence": 0.017
+  },
+  {
+    "key": "humanevalcomm_117__q1__oracle",
+    "task_id": 117,
+    "variant": "q1__oracle",
+    "name": "select_words",
+    "nb_candidates": 10,
+    "incoherence": 0.021,
+    "error": 0.039
+  },
+  {
+    "key": "humanevalcomm_117__q2__desc1",
+    "task_id": 117,
+    "variant": "q2__desc1",
+    "name": "select_words",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_117__q2__desc2",
+    "task_id": 117,
+    "variant": "q2__desc2",
+    "name": "select_words",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_117__q2__oracle",
+    "task_id": 117,
+    "variant": "q2__oracle",
+    "name": "select_words",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.05
+  },
+  {
+    "key": "humanevalcomm_117__q3__desc1",
+    "task_id": 117,
+    "variant": "q3__desc1",
+    "name": "select_words",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_117__q3__desc2",
+    "task_id": 117,
+    "variant": "q3__desc2",
+    "name": "select_words",
+    "nb_candidates": 10,
+    "incoherence": 0.007
+  },
+  {
+    "key": "humanevalcomm_117__q3__oracle",
+    "task_id": 117,
+    "variant": "q3__oracle",
+    "name": "select_words",
+    "nb_candidates": 9,
+    "incoherence": 0.0,
+    "error": 0.051
+  },
+  {
+    "key": "humanevalcomm_118__q1__desc1",
+    "task_id": 118,
+    "variant": "q1__desc1",
+    "name": "get_closest_vowel",
+    "nb_candidates": 8,
+    "incoherence": 0.049
+  },
+  {
+    "key": "humanevalcomm_118__q1__desc2",
+    "task_id": 118,
+    "variant": "q1__desc2",
+    "name": "get_closest_vowel",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_118__q1__oracle",
+    "task_id": 118,
+    "variant": "q1__oracle",
+    "name": "get_closest_vowel",
+    "nb_candidates": 8,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_118__q2__desc1",
+    "task_id": 118,
+    "variant": "q2__desc1",
+    "name": "get_closest_vowel",
+    "nb_candidates": 9,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_118__q2__desc2",
+    "task_id": 118,
+    "variant": "q2__desc2",
+    "name": "get_closest_vowel",
+    "nb_candidates": 3,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_118__q2__oracle",
+    "task_id": 118,
+    "variant": "q2__oracle",
+    "name": "get_closest_vowel",
+    "nb_candidates": 8,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_118__q3__desc1",
+    "task_id": 118,
+    "variant": "q3__desc1",
+    "name": "get_closest_vowel",
+    "nb_candidates": 1,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_118__q3__desc2",
+    "task_id": 118,
+    "variant": "q3__desc2",
+    "name": "get_closest_vowel",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_118__q3__oracle",
+    "task_id": 118,
+    "variant": "q3__oracle",
+    "name": "get_closest_vowel",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_119__q1__desc1",
+    "task_id": 119,
+    "variant": "q1__desc1",
+    "name": "match_parens",
+    "nb_candidates": 10,
+    "incoherence": 0.22
+  },
+  {
+    "key": "humanevalcomm_119__q1__desc2",
+    "task_id": 119,
+    "variant": "q1__desc2",
+    "name": "match_parens",
+    "nb_candidates": 9,
+    "incoherence": 0.198
+  },
+  {
+    "key": "humanevalcomm_119__q1__oracle",
+    "task_id": 119,
+    "variant": "q1__oracle",
+    "name": "match_parens",
+    "nb_candidates": 10,
+    "incoherence": 0.22,
+    "error": 0.23
+  },
+  {
+    "key": "humanevalcomm_119__q2__desc1",
+    "task_id": 119,
+    "variant": "q2__desc1",
+    "name": "match_parens",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_119__q2__desc2",
+    "task_id": 119,
+    "variant": "q2__desc2",
+    "name": "match_parens",
+    "nb_candidates": 5,
+    "incoherence": 0.321
+  },
+  {
+    "key": "humanevalcomm_119__q2__oracle",
+    "task_id": 119,
+    "variant": "q2__oracle",
+    "name": "match_parens",
+    "nb_candidates": 8,
+    "incoherence": 0.222,
+    "error": 0.149
+  },
+  {
+    "key": "humanevalcomm_119__q3__desc1",
+    "task_id": 119,
+    "variant": "q3__desc1",
+    "name": "match_parens",
+    "nb_candidates": 9,
+    "incoherence": 0.236
+  },
+  {
+    "key": "humanevalcomm_119__q3__desc2",
+    "task_id": 119,
+    "variant": "q3__desc2",
+    "name": "match_parens",
+    "nb_candidates": 10,
+    "incoherence": 0.086
+  },
+  {
+    "key": "humanevalcomm_119__q3__oracle",
+    "task_id": 119,
+    "variant": "q3__oracle",
+    "name": "match_parens",
+    "nb_candidates": 7,
+    "incoherence": 0.101,
+    "error": 0.053
+  },
+  {
+    "key": "humanevalcomm_120__q1__desc1",
+    "task_id": 120,
+    "variant": "q1__desc1",
+    "name": "maximum",
+    "nb_candidates": 9,
+    "incoherence": 0.403
+  },
+  {
+    "key": "humanevalcomm_120__q1__oracle",
+    "task_id": 120,
+    "variant": "q1__oracle",
+    "name": "maximum",
+    "nb_candidates": 6,
+    "incoherence": 0.077,
+    "error": 0.071
+  },
+  {
+    "key": "humanevalcomm_120__q2__desc1",
+    "task_id": 120,
+    "variant": "q2__desc1",
+    "name": "maximum",
+    "nb_candidates": 2,
+    "incoherence": 0.559
+  },
+  {
+    "key": "humanevalcomm_120__q2__desc2",
+    "task_id": 120,
+    "variant": "q2__desc2",
+    "name": "maximum",
+    "nb_candidates": 4,
+    "incoherence": 0.099
+  },
+  {
+    "key": "humanevalcomm_120__q2__oracle",
+    "task_id": 120,
+    "variant": "q2__oracle",
+    "name": "maximum",
+    "nb_candidates": 8,
+    "incoherence": 0.27,
+    "error": 0.207
+  },
+  {
+    "key": "humanevalcomm_120__q3__desc1",
+    "task_id": 120,
+    "variant": "q3__desc1",
+    "name": "maximum",
+    "nb_candidates": 10,
+    "incoherence": 0.05
+  },
+  {
+    "key": "humanevalcomm_120__q3__desc2",
+    "task_id": 120,
+    "variant": "q3__desc2",
+    "name": "maximum",
+    "nb_candidates": 6,
+    "incoherence": 0.097
+  },
+  {
+    "key": "humanevalcomm_120__q3__oracle",
+    "task_id": 120,
+    "variant": "q3__oracle",
+    "name": "maximum",
+    "nb_candidates": 10,
+    "incoherence": 0.212,
+    "error": 0.116
+  },
+  {
+    "key": "humanevalcomm_121__q1__desc2",
+    "task_id": 121,
+    "variant": "q1__desc2",
+    "name": "solution",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_121__q1__oracle",
+    "task_id": 121,
+    "variant": "q1__oracle",
+    "name": "solution",
+    "nb_candidates": 9,
+    "incoherence": 0.013,
+    "error": 0.03
+  },
+  {
+    "key": "humanevalcomm_121__q2__desc1",
+    "task_id": 121,
+    "variant": "q2__desc1",
+    "name": "solution",
+    "nb_candidates": 7,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_121__q2__desc2",
+    "task_id": 121,
+    "variant": "q2__desc2",
+    "name": "solution",
+    "nb_candidates": 9,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_121__q2__oracle",
+    "task_id": 121,
+    "variant": "q2__oracle",
+    "name": "solution",
+    "nb_candidates": 6,
+    "incoherence": 0.0,
+    "error": 0.022
+  },
+  {
+    "key": "humanevalcomm_121__q3__desc1",
+    "task_id": 121,
+    "variant": "q3__desc1",
+    "name": "solution",
+    "nb_candidates": 2,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_121__q3__desc2",
+    "task_id": 121,
+    "variant": "q3__desc2",
+    "name": "solution",
+    "nb_candidates": 10,
+    "incoherence": 0.006
+  },
+  {
+    "key": "humanevalcomm_121__q3__oracle",
+    "task_id": 121,
+    "variant": "q3__oracle",
+    "name": "solution",
+    "nb_candidates": 10,
+    "incoherence": 0.017,
+    "error": 0.019
+  },
+  {
+    "key": "humanevalcomm_122__q1__desc1",
+    "task_id": 122,
+    "variant": "q1__desc1",
+    "name": "add_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.012
+  },
+  {
+    "key": "humanevalcomm_122__q1__desc2",
+    "task_id": 122,
+    "variant": "q1__desc2",
+    "name": "add_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_122__q1__oracle",
+    "task_id": 122,
+    "variant": "q1__oracle",
+    "name": "add_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_122__q2__desc1",
+    "task_id": 122,
+    "variant": "q2__desc1",
+    "name": "add_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_122__q2__desc2",
+    "task_id": 122,
+    "variant": "q2__desc2",
+    "name": "add_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.08
+  },
+  {
+    "key": "humanevalcomm_122__q2__oracle",
+    "task_id": 122,
+    "variant": "q2__oracle",
+    "name": "add_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_122__q3__desc1",
+    "task_id": 122,
+    "variant": "q3__desc1",
+    "name": "add_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_122__q3__desc2",
+    "task_id": 122,
+    "variant": "q3__desc2",
+    "name": "add_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_122__q3__oracle",
+    "task_id": 122,
+    "variant": "q3__oracle",
+    "name": "add_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.162
+  },
+  {
+    "key": "humanevalcomm_124__q1__desc1",
+    "task_id": 124,
+    "variant": "q1__desc1",
+    "name": "valid_date",
+    "nb_candidates": 10,
+    "incoherence": 0.007
+  },
+  {
+    "key": "humanevalcomm_124__q1__desc2",
+    "task_id": 124,
+    "variant": "q1__desc2",
+    "name": "valid_date",
+    "nb_candidates": 7,
+    "incoherence": 0.033
+  },
+  {
+    "key": "humanevalcomm_124__q1__oracle",
+    "task_id": 124,
+    "variant": "q1__oracle",
+    "name": "valid_date",
+    "nb_candidates": 10,
+    "incoherence": 0.218,
+    "error": 0.101
+  },
+  {
+    "key": "humanevalcomm_124__q2__desc1",
+    "task_id": 124,
+    "variant": "q2__desc1",
+    "name": "valid_date",
+    "nb_candidates": 10,
+    "incoherence": 0.01
+  },
+  {
+    "key": "humanevalcomm_124__q2__desc2",
+    "task_id": 124,
+    "variant": "q2__desc2",
+    "name": "valid_date",
+    "nb_candidates": 10,
+    "incoherence": 0.001
+  },
+  {
+    "key": "humanevalcomm_124__q2__oracle",
+    "task_id": 124,
+    "variant": "q2__oracle",
+    "name": "valid_date",
+    "nb_candidates": 9,
+    "incoherence": 0.5,
+    "error": 0.296
+  },
+  {
+    "key": "humanevalcomm_124__q3__desc1",
+    "task_id": 124,
+    "variant": "q3__desc1",
+    "name": "valid_date",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_124__q3__desc2",
+    "task_id": 124,
+    "variant": "q3__desc2",
+    "name": "valid_date",
+    "nb_candidates": 10,
+    "incoherence": 0.001
+  },
+  {
+    "key": "humanevalcomm_124__q3__oracle",
+    "task_id": 124,
+    "variant": "q3__oracle",
+    "name": "valid_date",
+    "nb_candidates": 8,
+    "incoherence": 0.424,
+    "error": 0.246
+  },
+  {
+    "key": "humanevalcomm_125__q1__desc1",
+    "task_id": 125,
+    "variant": "q1__desc1",
+    "name": "split_words",
+    "nb_candidates": 10,
+    "incoherence": 0.107
+  },
+  {
+    "key": "humanevalcomm_125__q1__desc2",
+    "task_id": 125,
+    "variant": "q1__desc2",
+    "name": "split_words",
+    "nb_candidates": 10,
+    "incoherence": 0.078
+  },
+  {
+    "key": "humanevalcomm_125__q1__oracle",
+    "task_id": 125,
+    "variant": "q1__oracle",
+    "name": "split_words",
+    "nb_candidates": 10,
+    "incoherence": 0.041,
+    "error": 0.205
+  },
+  {
+    "key": "humanevalcomm_125__q2__desc1",
+    "task_id": 125,
+    "variant": "q2__desc1",
+    "name": "split_words",
+    "nb_candidates": 10,
+    "incoherence": 0.102
+  },
+  {
+    "key": "humanevalcomm_125__q2__desc2",
+    "task_id": 125,
+    "variant": "q2__desc2",
+    "name": "split_words",
+    "nb_candidates": 10,
+    "incoherence": 0.022
+  },
+  {
+    "key": "humanevalcomm_125__q2__oracle",
+    "task_id": 125,
+    "variant": "q2__oracle",
+    "name": "split_words",
+    "nb_candidates": 10,
+    "incoherence": 0.128,
+    "error": 0.122
+  },
+  {
+    "key": "humanevalcomm_125__q3__desc1",
+    "task_id": 125,
+    "variant": "q3__desc1",
+    "name": "split_words",
+    "nb_candidates": 10,
+    "incoherence": 0.018
+  },
+  {
+    "key": "humanevalcomm_125__q3__desc2",
+    "task_id": 125,
+    "variant": "q3__desc2",
+    "name": "split_words",
+    "nb_candidates": 10,
+    "incoherence": 0.274
+  },
+  {
+    "key": "humanevalcomm_125__q3__oracle",
+    "task_id": 125,
+    "variant": "q3__oracle",
+    "name": "split_words",
+    "nb_candidates": 10,
+    "incoherence": 0.152,
+    "error": 0.098
+  },
+  {
+    "key": "humanevalcomm_126__q1__desc1",
+    "task_id": 126,
+    "variant": "q1__desc1",
+    "name": "is_sorted",
+    "nb_candidates": 10,
+    "incoherence": 0.197
+  },
+  {
+    "key": "humanevalcomm_126__q1__desc2",
+    "task_id": 126,
+    "variant": "q1__desc2",
+    "name": "is_sorted",
+    "nb_candidates": 9,
+    "incoherence": 0.228
+  },
+  {
+    "key": "humanevalcomm_126__q1__oracle",
+    "task_id": 126,
+    "variant": "q1__oracle",
+    "name": "is_sorted",
+    "nb_candidates": 2,
+    "incoherence": 0.051,
+    "error": 0.967
+  },
+  {
+    "key": "humanevalcomm_126__q2__desc1",
+    "task_id": 126,
+    "variant": "q2__desc1",
+    "name": "is_sorted",
+    "nb_candidates": 3,
+    "incoherence": 1.0
+  },
+  {
+    "key": "humanevalcomm_126__q2__desc2",
+    "task_id": 126,
+    "variant": "q2__desc2",
+    "name": "is_sorted",
+    "nb_candidates": 3,
+    "incoherence": 0.498
+  },
+  {
+    "key": "humanevalcomm_126__q2__oracle",
+    "task_id": 126,
+    "variant": "q2__oracle",
+    "name": "is_sorted",
+    "nb_candidates": 4,
+    "incoherence": 0.021,
+    "error": 1.0
+  },
+  {
+    "key": "humanevalcomm_126__q3__desc1",
+    "task_id": 126,
+    "variant": "q3__desc1",
+    "name": "is_sorted",
+    "nb_candidates": 1,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_126__q3__desc2",
+    "task_id": 126,
+    "variant": "q3__desc2",
+    "name": "is_sorted",
+    "nb_candidates": 1,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_126__q3__oracle",
+    "task_id": 126,
+    "variant": "q3__oracle",
+    "name": "is_sorted",
+    "nb_candidates": 2,
+    "incoherence": 1.0,
+    "error": 0.499
+  },
+  {
+    "key": "humanevalcomm_127__q1__desc1",
+    "task_id": 127,
+    "variant": "q1__desc1",
+    "name": "intersection",
+    "nb_candidates": 9,
+    "incoherence": 0.286
+  },
+  {
+    "key": "humanevalcomm_127__q1__desc2",
+    "task_id": 127,
+    "variant": "q1__desc2",
+    "name": "intersection",
+    "nb_candidates": 10,
+    "incoherence": 0.368
+  },
+  {
+    "key": "humanevalcomm_127__q1__oracle",
+    "task_id": 127,
+    "variant": "q1__oracle",
+    "name": "intersection",
+    "nb_candidates": 10,
+    "incoherence": 0.306,
+    "error": 0.492
+  },
+  {
+    "key": "humanevalcomm_127__q2__desc1",
+    "task_id": 127,
+    "variant": "q2__desc1",
+    "name": "intersection",
+    "nb_candidates": 9,
+    "incoherence": 0.429
+  },
+  {
+    "key": "humanevalcomm_127__q2__desc2",
+    "task_id": 127,
+    "variant": "q2__desc2",
+    "name": "intersection",
+    "nb_candidates": 2,
+    "incoherence": 0.712
+  },
+  {
+    "key": "humanevalcomm_127__q2__oracle",
+    "task_id": 127,
+    "variant": "q2__oracle",
+    "name": "intersection",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.702
+  },
+  {
+    "key": "humanevalcomm_127__q3__desc1",
+    "task_id": 127,
+    "variant": "q3__desc1",
+    "name": "intersection",
+    "nb_candidates": 3,
+    "incoherence": 0.498
+  },
+  {
+    "key": "humanevalcomm_127__q3__desc2",
+    "task_id": 127,
+    "variant": "q3__desc2",
+    "name": "intersection",
+    "nb_candidates": 3,
+    "incoherence": 0.03
+  },
+  {
+    "key": "humanevalcomm_127__q3__oracle",
+    "task_id": 127,
+    "variant": "q3__oracle",
+    "name": "intersection",
+    "nb_candidates": 8,
+    "incoherence": 0.395,
+    "error": 0.427
+  },
+  {
+    "key": "humanevalcomm_128__q1__desc1",
+    "task_id": 128,
+    "variant": "q1__desc1",
+    "name": "prod_signs",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_128__q1__desc2",
+    "task_id": 128,
+    "variant": "q1__desc2",
+    "name": "prod_signs",
+    "nb_candidates": 9,
+    "incoherence": 0.307
+  },
+  {
+    "key": "humanevalcomm_128__q1__oracle",
+    "task_id": 128,
+    "variant": "q1__oracle",
+    "name": "prod_signs",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_128__q2__desc1",
+    "task_id": 128,
+    "variant": "q2__desc1",
+    "name": "prod_signs",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_128__q2__desc2",
+    "task_id": 128,
+    "variant": "q2__desc2",
+    "name": "prod_signs",
+    "nb_candidates": 9,
+    "incoherence": 0.289
+  },
+  {
+    "key": "humanevalcomm_128__q2__oracle",
+    "task_id": 128,
+    "variant": "q2__oracle",
+    "name": "prod_signs",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_128__q3__desc1",
+    "task_id": 128,
+    "variant": "q3__desc1",
+    "name": "prod_signs",
+    "nb_candidates": 10,
+    "incoherence": 0.157
+  },
+  {
+    "key": "humanevalcomm_128__q3__desc2",
+    "task_id": 128,
+    "variant": "q3__desc2",
+    "name": "prod_signs",
+    "nb_candidates": 9,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_128__q3__oracle",
+    "task_id": 128,
+    "variant": "q3__oracle",
+    "name": "prod_signs",
+    "nb_candidates": 8,
+    "incoherence": 0.207,
+    "error": 0.094
+  },
+  {
+    "key": "humanevalcomm_129__q1__desc1",
+    "task_id": 129,
+    "variant": "q1__desc1",
+    "name": "minPath",
+    "nb_candidates": 2,
+    "incoherence": 0.234
+  },
+  {
+    "key": "humanevalcomm_129__q1__desc2",
+    "task_id": 129,
+    "variant": "q1__desc2",
+    "name": "minPath",
+    "nb_candidates": 10,
+    "incoherence": null,
+    "incoherence_error": "TimeoutError: "
+  },
+  {
+    "key": "humanevalcomm_129__q1__oracle",
+    "task_id": 129,
+    "variant": "q1__oracle",
+    "name": "minPath",
+    "nb_candidates": 10,
+    "incoherence": 0.411,
+    "error": 0.455
+  },
+  {
+    "key": "humanevalcomm_129__q2__desc2",
+    "task_id": 129,
+    "variant": "q2__desc2",
+    "name": "minPath",
+    "nb_candidates": 5,
+    "incoherence": 0.446
+  },
+  {
+    "key": "humanevalcomm_129__q2__oracle",
+    "task_id": 129,
+    "variant": "q2__oracle",
+    "name": "minPath",
+    "nb_candidates": 5,
+    "incoherence": 0.544,
+    "error": 0.433
+  },
+  {
+    "key": "humanevalcomm_129__q3__desc1",
+    "task_id": 129,
+    "variant": "q3__desc1",
+    "name": "minPath",
+    "nb_candidates": 1,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_129__q3__desc2",
+    "task_id": 129,
+    "variant": "q3__desc2",
+    "name": "minPath",
+    "nb_candidates": 5,
+    "incoherence": 0.56
+  },
+  {
+    "key": "humanevalcomm_129__q3__oracle",
+    "task_id": 129,
+    "variant": "q3__oracle",
+    "name": "minPath",
+    "nb_candidates": 9,
+    "incoherence": 0.418,
+    "error": 0.489
+  },
+  {
+    "key": "humanevalcomm_12__q1__desc1",
+    "task_id": 12,
+    "variant": "q1__desc1",
+    "name": "longest",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_12__q1__desc2",
+    "task_id": 12,
+    "variant": "q1__desc2",
+    "name": "longest",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_12__q2__desc1",
+    "task_id": 12,
+    "variant": "q2__desc1",
+    "name": "longest",
+    "nb_candidates": 10,
+    "incoherence": 0.356
+  },
+  {
+    "key": "humanevalcomm_12__q2__desc2",
+    "task_id": 12,
+    "variant": "q2__desc2",
+    "name": "longest",
+    "nb_candidates": 10,
+    "incoherence": 0.182
+  },
+  {
+    "key": "humanevalcomm_12__q2__oracle",
+    "task_id": 12,
+    "variant": "q2__oracle",
+    "name": "longest",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_12__q3__desc1",
+    "task_id": 12,
+    "variant": "q3__desc1",
+    "name": "longest",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_12__q3__desc2",
+    "task_id": 12,
+    "variant": "q3__desc2",
+    "name": "longest",
+    "nb_candidates": 10,
+    "incoherence": 0.221
+  },
+  {
+    "key": "humanevalcomm_12__q3__oracle",
+    "task_id": 12,
+    "variant": "q3__oracle",
+    "name": "longest",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_130__q1__desc1",
+    "task_id": 130,
+    "variant": "q1__desc1",
+    "name": "tri",
+    "nb_candidates": 10,
+    "incoherence": 0.25
+  },
+  {
+    "key": "humanevalcomm_130__q1__desc2",
+    "task_id": 130,
+    "variant": "q1__desc2",
+    "name": "tri",
+    "nb_candidates": 8,
+    "incoherence": 0.244
+  },
+  {
+    "key": "humanevalcomm_130__q1__oracle",
+    "task_id": 130,
+    "variant": "q1__oracle",
+    "name": "tri",
+    "nb_candidates": 9,
+    "incoherence": 0.275,
+    "error": 0.228
+  },
+  {
+    "key": "humanevalcomm_130__q2__desc1",
+    "task_id": 130,
+    "variant": "q2__desc1",
+    "name": "tri",
+    "nb_candidates": 8,
+    "incoherence": 0.344
+  },
+  {
+    "key": "humanevalcomm_130__q2__desc2",
+    "task_id": 130,
+    "variant": "q2__desc2",
+    "name": "tri",
+    "nb_candidates": 8,
+    "incoherence": 0.187
+  },
+  {
+    "key": "humanevalcomm_130__q2__oracle",
+    "task_id": 130,
+    "variant": "q2__oracle",
+    "name": "tri",
+    "nb_candidates": 10,
+    "incoherence": 0.188,
+    "error": 0.142
+  },
+  {
+    "key": "humanevalcomm_130__q3__desc1",
+    "task_id": 130,
+    "variant": "q3__desc1",
+    "name": "tri",
+    "nb_candidates": 9,
+    "incoherence": 0.293
+  },
+  {
+    "key": "humanevalcomm_130__q3__desc2",
+    "task_id": 130,
+    "variant": "q3__desc2",
+    "name": "tri",
+    "nb_candidates": 7,
+    "incoherence": null,
+    "incoherence_error": "PicklingError: Can't pickle <functools._lru_cache_wrapper object at 0x11412cf60>: attribute lookup _tri_val on __main__ failed"
+  },
+  {
+    "key": "humanevalcomm_130__q3__oracle",
+    "task_id": 130,
+    "variant": "q3__oracle",
+    "name": "tri",
+    "nb_candidates": 9,
+    "incoherence": 0.088,
+    "error": 0.319
+  },
+  {
+    "key": "humanevalcomm_134__q1__desc1",
+    "task_id": 134,
+    "variant": "q1__desc1",
+    "name": "check_if_last_char_is_a_letter",
+    "nb_candidates": 10,
+    "incoherence": 0.192
+  },
+  {
+    "key": "humanevalcomm_134__q1__desc2",
+    "task_id": 134,
+    "variant": "q1__desc2",
+    "name": "check_if_last_char_is_a_letter",
+    "nb_candidates": 8,
+    "incoherence": 0.125
+  },
+  {
+    "key": "humanevalcomm_134__q1__oracle",
+    "task_id": 134,
+    "variant": "q1__oracle",
+    "name": "check_if_last_char_is_a_letter",
+    "nb_candidates": 5,
+    "incoherence": 0.18,
+    "error": 0.909
+  },
+  {
+    "key": "humanevalcomm_134__q2__desc1",
+    "task_id": 134,
+    "variant": "q2__desc1",
+    "name": "check_if_last_char_is_a_letter",
+    "nb_candidates": 7,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_134__q2__desc2",
+    "task_id": 134,
+    "variant": "q2__desc2",
+    "name": "check_if_last_char_is_a_letter",
+    "nb_candidates": 4,
+    "incoherence": 0.501
+  },
+  {
+    "key": "humanevalcomm_134__q2__oracle",
+    "task_id": 134,
+    "variant": "q2__oracle",
+    "name": "check_if_last_char_is_a_letter",
+    "nb_candidates": 8,
+    "incoherence": 0.017,
+    "error": 0.99
+  },
+  {
+    "key": "humanevalcomm_134__q3__desc1",
+    "task_id": 134,
+    "variant": "q3__desc1",
+    "name": "check_if_last_char_is_a_letter",
+    "nb_candidates": 7,
+    "incoherence": 0.672
+  },
+  {
+    "key": "humanevalcomm_134__q3__desc2",
+    "task_id": 134,
+    "variant": "q3__desc2",
+    "name": "check_if_last_char_is_a_letter",
+    "nb_candidates": 8,
+    "incoherence": 0.241
+  },
+  {
+    "key": "humanevalcomm_134__q3__oracle",
+    "task_id": 134,
+    "variant": "q3__oracle",
+    "name": "check_if_last_char_is_a_letter",
+    "nb_candidates": 4,
+    "incoherence": 0.512,
+    "error": 0.242
+  },
+  {
+    "key": "humanevalcomm_136__q1__desc1",
+    "task_id": 136,
+    "variant": "q1__desc1",
+    "name": "largest_smallest_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_136__q1__desc2",
+    "task_id": 136,
+    "variant": "q1__desc2",
+    "name": "largest_smallest_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_136__q1__oracle",
+    "task_id": 136,
+    "variant": "q1__oracle",
+    "name": "largest_smallest_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_136__q2__desc1",
+    "task_id": 136,
+    "variant": "q2__desc1",
+    "name": "largest_smallest_integers",
+    "nb_candidates": 8,
+    "incoherence": 0.13
+  },
+  {
+    "key": "humanevalcomm_136__q2__desc2",
+    "task_id": 136,
+    "variant": "q2__desc2",
+    "name": "largest_smallest_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_136__q2__oracle",
+    "task_id": 136,
+    "variant": "q2__oracle",
+    "name": "largest_smallest_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_136__q3__desc1",
+    "task_id": 136,
+    "variant": "q3__desc1",
+    "name": "largest_smallest_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_136__q3__desc2",
+    "task_id": 136,
+    "variant": "q3__desc2",
+    "name": "largest_smallest_integers",
+    "nb_candidates": 8,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_136__q3__oracle",
+    "task_id": 136,
+    "variant": "q3__oracle",
+    "name": "largest_smallest_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_138__q1__desc1",
+    "task_id": 138,
+    "variant": "q1__desc1",
+    "name": "is_equal_to_sum_even",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_138__q1__desc2",
+    "task_id": 138,
+    "variant": "q1__desc2",
+    "name": "is_equal_to_sum_even",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_138__q1__oracle",
+    "task_id": 138,
+    "variant": "q1__oracle",
+    "name": "is_equal_to_sum_even",
+    "nb_candidates": 10,
+    "incoherence": 0.186,
+    "error": 0.084
+  },
+  {
+    "key": "humanevalcomm_138__q2__desc1",
+    "task_id": 138,
+    "variant": "q2__desc1",
+    "name": "is_equal_to_sum_even",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_138__q2__desc2",
+    "task_id": 138,
+    "variant": "q2__desc2",
+    "name": "is_equal_to_sum_even",
+    "nb_candidates": 10,
+    "incoherence": 0.209
+  },
+  {
+    "key": "humanevalcomm_138__q2__oracle",
+    "task_id": 138,
+    "variant": "q2__oracle",
+    "name": "is_equal_to_sum_even",
+    "nb_candidates": 9,
+    "incoherence": 0.199,
+    "error": 0.101
+  },
+  {
+    "key": "humanevalcomm_138__q3__desc1",
+    "task_id": 138,
+    "variant": "q3__desc1",
+    "name": "is_equal_to_sum_even",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_138__q3__desc2",
+    "task_id": 138,
+    "variant": "q3__desc2",
+    "name": "is_equal_to_sum_even",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_138__q3__oracle",
+    "task_id": 138,
+    "variant": "q3__oracle",
+    "name": "is_equal_to_sum_even",
+    "nb_candidates": 10,
+    "incoherence": 0.384,
+    "error": 0.213
+  },
+  {
+    "key": "humanevalcomm_13__q1__desc1",
+    "task_id": 13,
+    "variant": "q1__desc1",
+    "name": "greatest_common_divisor",
+    "nb_candidates": 10,
+    "incoherence": 0.314
+  },
+  {
+    "key": "humanevalcomm_13__q1__desc2",
+    "task_id": 13,
+    "variant": "q1__desc2",
+    "name": "greatest_common_divisor",
+    "nb_candidates": 10,
+    "incoherence": 0.596
+  },
+  {
+    "key": "humanevalcomm_13__q1__oracle",
+    "task_id": 13,
+    "variant": "q1__oracle",
+    "name": "greatest_common_divisor",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.194
+  },
+  {
+    "key": "humanevalcomm_13__q2__desc1",
+    "task_id": 13,
+    "variant": "q2__desc1",
+    "name": "greatest_common_divisor",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_13__q2__desc2",
+    "task_id": 13,
+    "variant": "q2__desc2",
+    "name": "greatest_common_divisor",
+    "nb_candidates": 10,
+    "incoherence": 0.335
+  },
+  {
+    "key": "humanevalcomm_13__q2__oracle",
+    "task_id": 13,
+    "variant": "q2__oracle",
+    "name": "greatest_common_divisor",
+    "nb_candidates": 4,
+    "incoherence": 0.434,
+    "error": 0.239
+  },
+  {
+    "key": "humanevalcomm_13__q3__desc1",
+    "task_id": 13,
+    "variant": "q3__desc1",
+    "name": "greatest_common_divisor",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_13__q3__desc2",
+    "task_id": 13,
+    "variant": "q3__desc2",
+    "name": "greatest_common_divisor",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_13__q3__oracle",
+    "task_id": 13,
+    "variant": "q3__oracle",
+    "name": "greatest_common_divisor",
+    "nb_candidates": 10,
+    "incoherence": 0.301,
+    "error": 0.328
+  },
+  {
+    "key": "humanevalcomm_140__q1__desc1",
+    "task_id": 140,
+    "variant": "q1__desc1",
+    "name": "fix_spaces",
+    "nb_candidates": 9,
+    "incoherence": 0.102
+  },
+  {
+    "key": "humanevalcomm_140__q1__desc2",
+    "task_id": 140,
+    "variant": "q1__desc2",
+    "name": "fix_spaces",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_140__q1__oracle",
+    "task_id": 140,
+    "variant": "q1__oracle",
+    "name": "fix_spaces",
+    "nb_candidates": 8,
+    "incoherence": 0.0,
+    "error": 0.013
+  },
+  {
+    "key": "humanevalcomm_140__q2__desc1",
+    "task_id": 140,
+    "variant": "q2__desc1",
+    "name": "fix_spaces",
+    "nb_candidates": 5,
+    "incoherence": 0.419
+  },
+  {
+    "key": "humanevalcomm_140__q2__desc2",
+    "task_id": 140,
+    "variant": "q2__desc2",
+    "name": "fix_spaces",
+    "nb_candidates": 2,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_140__q2__oracle",
+    "task_id": 140,
+    "variant": "q2__oracle",
+    "name": "fix_spaces",
+    "nb_candidates": 3,
+    "incoherence": 0.279,
+    "error": 0.357
+  },
+  {
+    "key": "humanevalcomm_140__q3__desc1",
+    "task_id": 140,
+    "variant": "q3__desc1",
+    "name": "fix_spaces",
+    "nb_candidates": 4,
+    "incoherence": 0.34
+  },
+  {
+    "key": "humanevalcomm_140__q3__desc2",
+    "task_id": 140,
+    "variant": "q3__desc2",
+    "name": "fix_spaces",
+    "nb_candidates": 2,
+    "incoherence": 0.285
+  },
+  {
+    "key": "humanevalcomm_140__q3__oracle",
+    "task_id": 140,
+    "variant": "q3__oracle",
+    "name": "fix_spaces",
+    "nb_candidates": 6,
+    "incoherence": 0.476,
+    "error": 0.416
+  },
+  {
+    "key": "humanevalcomm_150__q1__desc1",
+    "task_id": 150,
+    "variant": "q1__desc1",
+    "name": "x_or_y",
+    "nb_candidates": 10,
+    "incoherence": 0.349
+  },
+  {
+    "key": "humanevalcomm_150__q1__desc2",
+    "task_id": 150,
+    "variant": "q1__desc2",
+    "name": "x_or_y",
+    "nb_candidates": 10,
+    "incoherence": 0.194
+  },
+  {
+    "key": "humanevalcomm_150__q1__oracle",
+    "task_id": 150,
+    "variant": "q1__oracle",
+    "name": "x_or_y",
+    "nb_candidates": 10,
+    "incoherence": 0.188,
+    "error": 0.286
+  },
+  {
+    "key": "humanevalcomm_150__q2__desc1",
+    "task_id": 150,
+    "variant": "q2__desc1",
+    "name": "x_or_y",
+    "nb_candidates": 10,
+    "incoherence": 0.556
+  },
+  {
+    "key": "humanevalcomm_150__q2__desc2",
+    "task_id": 150,
+    "variant": "q2__desc2",
+    "name": "x_or_y",
+    "nb_candidates": 10,
+    "incoherence": 0.535
+  },
+  {
+    "key": "humanevalcomm_150__q2__oracle",
+    "task_id": 150,
+    "variant": "q2__oracle",
+    "name": "x_or_y",
+    "nb_candidates": 9,
+    "incoherence": 0.0,
+    "error": 0.218
+  },
+  {
+    "key": "humanevalcomm_150__q3__desc1",
+    "task_id": 150,
+    "variant": "q3__desc1",
+    "name": "x_or_y",
+    "nb_candidates": 10,
+    "incoherence": 0.473
+  },
+  {
+    "key": "humanevalcomm_150__q3__desc2",
+    "task_id": 150,
+    "variant": "q3__desc2",
+    "name": "x_or_y",
+    "nb_candidates": 10,
+    "incoherence": 0.341
+  },
+  {
+    "key": "humanevalcomm_150__q3__oracle",
+    "task_id": 150,
+    "variant": "q3__oracle",
+    "name": "x_or_y",
+    "nb_candidates": 10,
+    "incoherence": 0.366,
+    "error": 0.315
+  },
+  {
+    "key": "humanevalcomm_154__q1__desc1",
+    "task_id": 154,
+    "variant": "q1__desc1",
+    "name": "cycpattern_check",
+    "nb_candidates": 5,
+    "incoherence": 0.389
+  },
+  {
+    "key": "humanevalcomm_154__q1__desc2",
+    "task_id": 154,
+    "variant": "q1__desc2",
+    "name": "cycpattern_check",
+    "nb_candidates": 8,
+    "incoherence": 0.549
+  },
+  {
+    "key": "humanevalcomm_154__q1__oracle",
+    "task_id": 154,
+    "variant": "q1__oracle",
+    "name": "cycpattern_check",
+    "nb_candidates": 2,
+    "incoherence": 0.0,
+    "error": 0.961
+  },
+  {
+    "key": "humanevalcomm_154__q2__desc1",
+    "task_id": 154,
+    "variant": "q2__desc1",
+    "name": "cycpattern_check",
+    "nb_candidates": 4,
+    "incoherence": 0.485
+  },
+  {
+    "key": "humanevalcomm_154__q2__desc2",
+    "task_id": 154,
+    "variant": "q2__desc2",
+    "name": "cycpattern_check",
+    "nb_candidates": 6,
+    "incoherence": 0.49
+  },
+  {
+    "key": "humanevalcomm_154__q2__oracle",
+    "task_id": 154,
+    "variant": "q2__oracle",
+    "name": "cycpattern_check",
+    "nb_candidates": 4,
+    "incoherence": 0.639,
+    "error": 0.508
+  },
+  {
+    "key": "humanevalcomm_154__q3__desc1",
+    "task_id": 154,
+    "variant": "q3__desc1",
+    "name": "cycpattern_check",
+    "nb_candidates": 8,
+    "incoherence": 0.528
+  },
+  {
+    "key": "humanevalcomm_154__q3__desc2",
+    "task_id": 154,
+    "variant": "q3__desc2",
+    "name": "cycpattern_check",
+    "nb_candidates": 8,
+    "incoherence": 0.436
+  },
+  {
+    "key": "humanevalcomm_154__q3__oracle",
+    "task_id": 154,
+    "variant": "q3__oracle",
+    "name": "cycpattern_check",
+    "nb_candidates": 3,
+    "incoherence": 0.031,
+    "error": 0.017
+  },
+  {
+    "key": "humanevalcomm_157__q1__desc1",
+    "task_id": 157,
+    "variant": "q1__desc1",
+    "name": "right_angle_triangle",
+    "nb_candidates": 9,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_157__q1__desc2",
+    "task_id": 157,
+    "variant": "q1__desc2",
+    "name": "right_angle_triangle",
+    "nb_candidates": 10,
+    "incoherence": 0.349
+  },
+  {
+    "key": "humanevalcomm_157__q1__oracle",
+    "task_id": 157,
+    "variant": "q1__oracle",
+    "name": "right_angle_triangle",
+    "nb_candidates": 10,
+    "incoherence": 0.001,
+    "error": 1.0
+  },
+  {
+    "key": "humanevalcomm_157__q2__desc1",
+    "task_id": 157,
+    "variant": "q2__desc1",
+    "name": "right_angle_triangle",
+    "nb_candidates": 9,
+    "incoherence": 0.23
+  },
+  {
+    "key": "humanevalcomm_157__q2__desc2",
+    "task_id": 157,
+    "variant": "q2__desc2",
+    "name": "right_angle_triangle",
+    "nb_candidates": 9,
+    "incoherence": 0.506
+  },
+  {
+    "key": "humanevalcomm_157__q2__oracle",
+    "task_id": 157,
+    "variant": "q2__oracle",
+    "name": "right_angle_triangle",
+    "nb_candidates": 8,
+    "incoherence": 0.546,
+    "error": 0.371
+  },
+  {
+    "key": "humanevalcomm_157__q3__desc1",
+    "task_id": 157,
+    "variant": "q3__desc1",
+    "name": "right_angle_triangle",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_157__q3__desc2",
+    "task_id": 157,
+    "variant": "q3__desc2",
+    "name": "right_angle_triangle",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_157__q3__oracle",
+    "task_id": 157,
+    "variant": "q3__oracle",
+    "name": "right_angle_triangle",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.001
+  },
+  {
+    "key": "humanevalcomm_16__q1__desc1",
+    "task_id": 16,
+    "variant": "q1__desc1",
+    "name": "count_distinct_characters",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_16__q1__desc2",
+    "task_id": 16,
+    "variant": "q1__desc2",
+    "name": "count_distinct_characters",
+    "nb_candidates": 10,
+    "incoherence": 0.102
+  },
+  {
+    "key": "humanevalcomm_16__q1__oracle",
+    "task_id": 16,
+    "variant": "q1__oracle",
+    "name": "count_distinct_characters",
+    "nb_candidates": 8,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_16__q2__desc1",
+    "task_id": 16,
+    "variant": "q2__desc1",
+    "name": "count_distinct_characters",
+    "nb_candidates": 10,
+    "incoherence": 0.367
+  },
+  {
+    "key": "humanevalcomm_16__q2__desc2",
+    "task_id": 16,
+    "variant": "q2__desc2",
+    "name": "count_distinct_characters",
+    "nb_candidates": 10,
+    "incoherence": 0.264
+  },
+  {
+    "key": "humanevalcomm_16__q2__oracle",
+    "task_id": 16,
+    "variant": "q2__oracle",
+    "name": "count_distinct_characters",
+    "nb_candidates": 8,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_16__q3__desc1",
+    "task_id": 16,
+    "variant": "q3__desc1",
+    "name": "count_distinct_characters",
+    "nb_candidates": 10,
+    "incoherence": 0.19
+  },
+  {
+    "key": "humanevalcomm_16__q3__desc2",
+    "task_id": 16,
+    "variant": "q3__desc2",
+    "name": "count_distinct_characters",
+    "nb_candidates": 10,
+    "incoherence": 0.217
+  },
+  {
+    "key": "humanevalcomm_16__q3__oracle",
+    "task_id": 16,
+    "variant": "q3__oracle",
+    "name": "count_distinct_characters",
+    "nb_candidates": 3,
+    "incoherence": 0.0,
+    "error": 0.547
+  },
+  {
+    "key": "humanevalcomm_17__q1__desc1",
+    "task_id": 17,
+    "variant": "q1__desc1",
+    "name": "parse_music",
+    "nb_candidates": 10,
+    "incoherence": 0.391
+  },
+  {
+    "key": "humanevalcomm_17__q1__desc2",
+    "task_id": 17,
+    "variant": "q1__desc2",
+    "name": "parse_music",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_17__q1__oracle",
+    "task_id": 17,
+    "variant": "q1__oracle",
+    "name": "parse_music",
+    "nb_candidates": 10,
+    "incoherence": 0.12,
+    "error": 0.054
+  },
+  {
+    "key": "humanevalcomm_17__q2__desc1",
+    "task_id": 17,
+    "variant": "q2__desc1",
+    "name": "parse_music",
+    "nb_candidates": 10,
+    "incoherence": 0.21
+  },
+  {
+    "key": "humanevalcomm_17__q2__desc2",
+    "task_id": 17,
+    "variant": "q2__desc2",
+    "name": "parse_music",
+    "nb_candidates": 10,
+    "incoherence": 0.213
+  },
+  {
+    "key": "humanevalcomm_17__q2__oracle",
+    "task_id": 17,
+    "variant": "q2__oracle",
+    "name": "parse_music",
+    "nb_candidates": 8,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_17__q3__desc1",
+    "task_id": 17,
+    "variant": "q3__desc1",
+    "name": "parse_music",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_17__q3__desc2",
+    "task_id": 17,
+    "variant": "q3__desc2",
+    "name": "parse_music",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_17__q3__oracle",
+    "task_id": 17,
+    "variant": "q3__oracle",
+    "name": "parse_music",
+    "nb_candidates": 9,
+    "incoherence": 0.267,
+    "error": 0.188
+  },
+  {
+    "key": "humanevalcomm_18__q1__desc1",
+    "task_id": 18,
+    "variant": "q1__desc1",
+    "name": "how_many_times",
+    "nb_candidates": 10,
+    "incoherence": 0.195
+  },
+  {
+    "key": "humanevalcomm_18__q1__desc2",
+    "task_id": 18,
+    "variant": "q1__desc2",
+    "name": "how_many_times",
+    "nb_candidates": 10,
+    "incoherence": null,
+    "incoherence_error": "TimeoutError: "
+  },
+  {
+    "key": "humanevalcomm_18__q1__oracle",
+    "task_id": 18,
+    "variant": "q1__oracle",
+    "name": "how_many_times",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.076
+  },
+  {
+    "key": "humanevalcomm_18__q2__desc1",
+    "task_id": 18,
+    "variant": "q2__desc1",
+    "name": "how_many_times",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_18__q2__desc2",
+    "task_id": 18,
+    "variant": "q2__desc2",
+    "name": "how_many_times",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_18__q2__oracle",
+    "task_id": 18,
+    "variant": "q2__oracle",
+    "name": "how_many_times",
+    "nb_candidates": 10,
+    "incoherence": 0.201,
+    "error": 0.146
+  },
+  {
+    "key": "humanevalcomm_18__q3__desc1",
+    "task_id": 18,
+    "variant": "q3__desc1",
+    "name": "how_many_times",
+    "nb_candidates": 10,
+    "incoherence": 0.014
+  },
+  {
+    "key": "humanevalcomm_18__q3__desc2",
+    "task_id": 18,
+    "variant": "q3__desc2",
+    "name": "how_many_times",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_18__q3__oracle",
+    "task_id": 18,
+    "variant": "q3__oracle",
+    "name": "how_many_times",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.084
+  },
+  {
+    "key": "humanevalcomm_19__q1__desc1",
+    "task_id": 19,
+    "variant": "q1__desc1",
+    "name": "sort_numbers",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_19__q1__desc2",
+    "task_id": 19,
+    "variant": "q1__desc2",
+    "name": "sort_numbers",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_19__q1__oracle",
+    "task_id": 19,
+    "variant": "q1__oracle",
+    "name": "sort_numbers",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_19__q2__desc1",
+    "task_id": 19,
+    "variant": "q2__desc1",
+    "name": "sort_numbers",
+    "nb_candidates": 10,
+    "incoherence": 0.285
+  },
+  {
+    "key": "humanevalcomm_19__q2__desc2",
+    "task_id": 19,
+    "variant": "q2__desc2",
+    "name": "sort_numbers",
+    "nb_candidates": 10,
+    "incoherence": 0.044
+  },
+  {
+    "key": "humanevalcomm_19__q2__oracle",
+    "task_id": 19,
+    "variant": "q2__oracle",
+    "name": "sort_numbers",
+    "nb_candidates": 10,
+    "incoherence": 0.061,
+    "error": 0.152
+  },
+  {
+    "key": "humanevalcomm_19__q3__desc1",
+    "task_id": 19,
+    "variant": "q3__desc1",
+    "name": "sort_numbers",
+    "nb_candidates": 10,
+    "incoherence": 0.099
+  },
+  {
+    "key": "humanevalcomm_19__q3__desc2",
+    "task_id": 19,
+    "variant": "q3__desc2",
+    "name": "sort_numbers",
+    "nb_candidates": 10,
+    "incoherence": 0.103
+  },
+  {
+    "key": "humanevalcomm_19__q3__oracle",
+    "task_id": 19,
+    "variant": "q3__oracle",
+    "name": "sort_numbers",
+    "nb_candidates": 10,
+    "incoherence": 0.112,
+    "error": 0.099
+  },
+  {
+    "key": "humanevalcomm_1__q1__desc1",
+    "task_id": 1,
+    "variant": "q1__desc1",
+    "name": "separate_paren_groups",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_1__q1__desc2",
+    "task_id": 1,
+    "variant": "q1__desc2",
+    "name": "separate_paren_groups",
+    "nb_candidates": 10,
+    "incoherence": 0.588
+  },
+  {
+    "key": "humanevalcomm_1__q1__oracle",
+    "task_id": 1,
+    "variant": "q1__oracle",
+    "name": "separate_paren_groups",
+    "nb_candidates": 10,
+    "incoherence": 0.064,
+    "error": 0.111
+  },
+  {
+    "key": "humanevalcomm_1__q2__desc1",
+    "task_id": 1,
+    "variant": "q2__desc1",
+    "name": "separate_paren_groups",
+    "nb_candidates": 10,
+    "incoherence": 0.232
+  },
+  {
+    "key": "humanevalcomm_1__q2__desc2",
+    "task_id": 1,
+    "variant": "q2__desc2",
+    "name": "separate_paren_groups",
+    "nb_candidates": 10,
+    "incoherence": 0.026
+  },
+  {
+    "key": "humanevalcomm_1__q2__oracle",
+    "task_id": 1,
+    "variant": "q2__oracle",
+    "name": "separate_paren_groups",
+    "nb_candidates": 10,
+    "incoherence": 0.064,
+    "error": 0.052
+  },
+  {
+    "key": "humanevalcomm_1__q3__desc1",
+    "task_id": 1,
+    "variant": "q3__desc1",
+    "name": "separate_paren_groups",
+    "nb_candidates": 10,
+    "incoherence": 0.031
+  },
+  {
+    "key": "humanevalcomm_1__q3__desc2",
+    "task_id": 1,
+    "variant": "q3__desc2",
+    "name": "separate_paren_groups",
+    "nb_candidates": 10,
+    "incoherence": 0.097
+  },
+  {
+    "key": "humanevalcomm_1__q3__oracle",
+    "task_id": 1,
+    "variant": "q3__oracle",
+    "name": "separate_paren_groups",
+    "nb_candidates": 10,
+    "incoherence": 0.132,
+    "error": 0.055
+  },
+  {
+    "key": "humanevalcomm_20__q1__desc1",
+    "task_id": 20,
+    "variant": "q1__desc1",
+    "name": "find_closest_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.001
+  },
+  {
+    "key": "humanevalcomm_20__q1__desc2",
+    "task_id": 20,
+    "variant": "q1__desc2",
+    "name": "find_closest_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.003
+  },
+  {
+    "key": "humanevalcomm_20__q1__oracle",
+    "task_id": 20,
+    "variant": "q1__oracle",
+    "name": "find_closest_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.196,
+    "error": 0.093
+  },
+  {
+    "key": "humanevalcomm_20__q2__desc1",
+    "task_id": 20,
+    "variant": "q2__desc1",
+    "name": "find_closest_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_20__q2__desc2",
+    "task_id": 20,
+    "variant": "q2__desc2",
+    "name": "find_closest_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.362
+  },
+  {
+    "key": "humanevalcomm_20__q2__oracle",
+    "task_id": 20,
+    "variant": "q2__oracle",
+    "name": "find_closest_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.183,
+    "error": 0.099
+  },
+  {
+    "key": "humanevalcomm_20__q3__desc1",
+    "task_id": 20,
+    "variant": "q3__desc1",
+    "name": "find_closest_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.52
+  },
+  {
+    "key": "humanevalcomm_20__q3__desc2",
+    "task_id": 20,
+    "variant": "q3__desc2",
+    "name": "find_closest_elements",
+    "nb_candidates": 9,
+    "incoherence": 0.56
+  },
+  {
+    "key": "humanevalcomm_20__q3__oracle",
+    "task_id": 20,
+    "variant": "q3__oracle",
+    "name": "find_closest_elements",
+    "nb_candidates": 10,
+    "incoherence": 0.191,
+    "error": 0.113
+  },
+  {
+    "key": "humanevalcomm_21__q1__desc1",
+    "task_id": 21,
+    "variant": "q1__desc1",
+    "name": "rescale_to_unit",
+    "nb_candidates": 10,
+    "incoherence": 0.193
+  },
+  {
+    "key": "humanevalcomm_21__q1__desc2",
+    "task_id": 21,
+    "variant": "q1__desc2",
+    "name": "rescale_to_unit",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_21__q1__oracle",
+    "task_id": 21,
+    "variant": "q1__oracle",
+    "name": "rescale_to_unit",
+    "nb_candidates": 10,
+    "incoherence": 0.198,
+    "error": 0.1
+  },
+  {
+    "key": "humanevalcomm_21__q2__desc1",
+    "task_id": 21,
+    "variant": "q2__desc1",
+    "name": "rescale_to_unit",
+    "nb_candidates": 10,
+    "incoherence": 0.341
+  },
+  {
+    "key": "humanevalcomm_21__q2__desc2",
+    "task_id": 21,
+    "variant": "q2__desc2",
+    "name": "rescale_to_unit",
+    "nb_candidates": 10,
+    "incoherence": 0.644
+  },
+  {
+    "key": "humanevalcomm_21__q2__oracle",
+    "task_id": 21,
+    "variant": "q2__oracle",
+    "name": "rescale_to_unit",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_21__q3__desc1",
+    "task_id": 21,
+    "variant": "q3__desc1",
+    "name": "rescale_to_unit",
+    "nb_candidates": 10,
+    "incoherence": 0.353
+  },
+  {
+    "key": "humanevalcomm_21__q3__desc2",
+    "task_id": 21,
+    "variant": "q3__desc2",
+    "name": "rescale_to_unit",
+    "nb_candidates": 10,
+    "incoherence": 0.616
+  },
+  {
+    "key": "humanevalcomm_21__q3__oracle",
+    "task_id": 21,
+    "variant": "q3__oracle",
+    "name": "rescale_to_unit",
+    "nb_candidates": 10,
+    "incoherence": 0.364,
+    "error": 0.794
+  },
+  {
+    "key": "humanevalcomm_22__q1__desc1",
+    "task_id": 22,
+    "variant": "q1__desc1",
+    "name": "filter_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.678
+  },
+  {
+    "key": "humanevalcomm_22__q1__desc2",
+    "task_id": 22,
+    "variant": "q1__desc2",
+    "name": "filter_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.327
+  },
+  {
+    "key": "humanevalcomm_22__q1__oracle",
+    "task_id": 22,
+    "variant": "q1__oracle",
+    "name": "filter_integers",
+    "nb_candidates": 9,
+    "incoherence": 0.6,
+    "error": 0.418
+  },
+  {
+    "key": "humanevalcomm_22__q2__desc1",
+    "task_id": 22,
+    "variant": "q2__desc1",
+    "name": "filter_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.374
+  },
+  {
+    "key": "humanevalcomm_22__q2__desc2",
+    "task_id": 22,
+    "variant": "q2__desc2",
+    "name": "filter_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.552
+  },
+  {
+    "key": "humanevalcomm_22__q2__oracle",
+    "task_id": 22,
+    "variant": "q2__oracle",
+    "name": "filter_integers",
+    "nb_candidates": 6,
+    "incoherence": 0.463,
+    "error": 0.295
+  },
+  {
+    "key": "humanevalcomm_22__q3__desc1",
+    "task_id": 22,
+    "variant": "q3__desc1",
+    "name": "filter_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.312
+  },
+  {
+    "key": "humanevalcomm_22__q3__desc2",
+    "task_id": 22,
+    "variant": "q3__desc2",
+    "name": "filter_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.132
+  },
+  {
+    "key": "humanevalcomm_22__q3__oracle",
+    "task_id": 22,
+    "variant": "q3__oracle",
+    "name": "filter_integers",
+    "nb_candidates": 10,
+    "incoherence": 0.671,
+    "error": 0.725
+  },
+  {
+    "key": "humanevalcomm_26__q1__desc1",
+    "task_id": 26,
+    "variant": "q1__desc1",
+    "name": "remove_duplicates",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_26__q1__desc2",
+    "task_id": 26,
+    "variant": "q1__desc2",
+    "name": "remove_duplicates",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_26__q1__oracle",
+    "task_id": 26,
+    "variant": "q1__oracle",
+    "name": "remove_duplicates",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_26__q2__desc1",
+    "task_id": 26,
+    "variant": "q2__desc1",
+    "name": "remove_duplicates",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_26__q2__desc2",
+    "task_id": 26,
+    "variant": "q2__desc2",
+    "name": "remove_duplicates",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_26__q2__oracle",
+    "task_id": 26,
+    "variant": "q2__oracle",
+    "name": "remove_duplicates",
+    "nb_candidates": 8,
+    "incoherence": 0.427,
+    "error": 0.261
+  },
+  {
+    "key": "humanevalcomm_26__q3__desc1",
+    "task_id": 26,
+    "variant": "q3__desc1",
+    "name": "remove_duplicates",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_26__q3__desc2",
+    "task_id": 26,
+    "variant": "q3__desc2",
+    "name": "remove_duplicates",
+    "nb_candidates": 10,
+    "incoherence": 0.195
+  },
+  {
+    "key": "humanevalcomm_26__q3__oracle",
+    "task_id": 26,
+    "variant": "q3__oracle",
+    "name": "remove_duplicates",
+    "nb_candidates": 10,
+    "incoherence": 0.183,
+    "error": 0.097
+  },
+  {
+    "key": "humanevalcomm_2__q1__desc1",
+    "task_id": 2,
+    "variant": "q1__desc1",
+    "name": "truncate_number",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_2__q1__desc2",
+    "task_id": 2,
+    "variant": "q1__desc2",
+    "name": "truncate_number",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_2__q1__oracle",
+    "task_id": 2,
+    "variant": "q1__oracle",
+    "name": "truncate_number",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_2__q2__desc1",
+    "task_id": 2,
+    "variant": "q2__desc1",
+    "name": "truncate_number",
+    "nb_candidates": 10,
+    "incoherence": 0.098
+  },
+  {
+    "key": "humanevalcomm_2__q2__desc2",
+    "task_id": 2,
+    "variant": "q2__desc2",
+    "name": "truncate_number",
+    "nb_candidates": 10,
+    "incoherence": 0.05
+  },
+  {
+    "key": "humanevalcomm_2__q2__oracle",
+    "task_id": 2,
+    "variant": "q2__oracle",
+    "name": "truncate_number",
+    "nb_candidates": 10,
+    "incoherence": 0.047,
+    "error": 0.023
+  },
+  {
+    "key": "humanevalcomm_2__q3__desc1",
+    "task_id": 2,
+    "variant": "q3__desc1",
+    "name": "truncate_number",
+    "nb_candidates": 10,
+    "incoherence": 0.033
+  },
+  {
+    "key": "humanevalcomm_2__q3__desc2",
+    "task_id": 2,
+    "variant": "q3__desc2",
+    "name": "truncate_number",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_2__q3__oracle",
+    "task_id": 2,
+    "variant": "q3__oracle",
+    "name": "truncate_number",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_30__q1__desc1",
+    "task_id": 30,
+    "variant": "q1__desc1",
+    "name": "get_positive",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_30__q1__desc2",
+    "task_id": 30,
+    "variant": "q1__desc2",
+    "name": "get_positive",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_30__q1__oracle",
+    "task_id": 30,
+    "variant": "q1__oracle",
+    "name": "get_positive",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_30__q2__desc1",
+    "task_id": 30,
+    "variant": "q2__desc1",
+    "name": "get_positive",
+    "nb_candidates": 10,
+    "incoherence": 0.538
+  },
+  {
+    "key": "humanevalcomm_30__q2__desc2",
+    "task_id": 30,
+    "variant": "q2__desc2",
+    "name": "get_positive",
+    "nb_candidates": 10,
+    "incoherence": 0.149
+  },
+  {
+    "key": "humanevalcomm_30__q2__oracle",
+    "task_id": 30,
+    "variant": "q2__oracle",
+    "name": "get_positive",
+    "nb_candidates": 10,
+    "incoherence": 0.211,
+    "error": 0.859
+  },
+  {
+    "key": "humanevalcomm_30__q3__desc1",
+    "task_id": 30,
+    "variant": "q3__desc1",
+    "name": "get_positive",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_30__q3__desc2",
+    "task_id": 30,
+    "variant": "q3__desc2",
+    "name": "get_positive",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_30__q3__oracle",
+    "task_id": 30,
+    "variant": "q3__oracle",
+    "name": "get_positive",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.829
+  },
+  {
+    "key": "humanevalcomm_31__q1__desc1",
+    "task_id": 31,
+    "variant": "q1__desc1",
+    "name": "is_prime",
+    "nb_candidates": 10,
+    "incoherence": 0.28
+  },
+  {
+    "key": "humanevalcomm_31__q1__desc2",
+    "task_id": 31,
+    "variant": "q1__desc2",
+    "name": "is_prime",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_31__q1__oracle",
+    "task_id": 31,
+    "variant": "q1__oracle",
+    "name": "is_prime",
+    "nb_candidates": 10,
+    "incoherence": 0.494,
+    "error": 0.369
+  },
+  {
+    "key": "humanevalcomm_31__q2__desc1",
+    "task_id": 31,
+    "variant": "q2__desc1",
+    "name": "is_prime",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_31__q2__desc2",
+    "task_id": 31,
+    "variant": "q2__desc2",
+    "name": "is_prime",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_31__q2__oracle",
+    "task_id": 31,
+    "variant": "q2__oracle",
+    "name": "is_prime",
+    "nb_candidates": 10,
+    "incoherence": 0.15,
+    "error": 0.734
+  },
+  {
+    "key": "humanevalcomm_31__q3__desc1",
+    "task_id": 31,
+    "variant": "q3__desc1",
+    "name": "is_prime",
+    "nb_candidates": 10,
+    "incoherence": 0.304
+  },
+  {
+    "key": "humanevalcomm_31__q3__desc2",
+    "task_id": 31,
+    "variant": "q3__desc2",
+    "name": "is_prime",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_31__q3__oracle",
+    "task_id": 31,
+    "variant": "q3__oracle",
+    "name": "is_prime",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_33__q1__desc1",
+    "task_id": 33,
+    "variant": "q1__desc1",
+    "name": "sort_third",
+    "nb_candidates": 10,
+    "incoherence": 0.51
+  },
+  {
+    "key": "humanevalcomm_33__q1__desc2",
+    "task_id": 33,
+    "variant": "q1__desc2",
+    "name": "sort_third",
+    "nb_candidates": 10,
+    "incoherence": 0.543
+  },
+  {
+    "key": "humanevalcomm_33__q1__oracle",
+    "task_id": 33,
+    "variant": "q1__oracle",
+    "name": "sort_third",
+    "nb_candidates": 10,
+    "incoherence": 0.364,
+    "error": 0.229
+  },
+  {
+    "key": "humanevalcomm_33__q2__desc1",
+    "task_id": 33,
+    "variant": "q2__desc1",
+    "name": "sort_third",
+    "nb_candidates": 10,
+    "incoherence": 0.706
+  },
+  {
+    "key": "humanevalcomm_33__q2__desc2",
+    "task_id": 33,
+    "variant": "q2__desc2",
+    "name": "sort_third",
+    "nb_candidates": 10,
+    "incoherence": 0.478
+  },
+  {
+    "key": "humanevalcomm_33__q2__oracle",
+    "task_id": 33,
+    "variant": "q2__oracle",
+    "name": "sort_third",
+    "nb_candidates": 10,
+    "incoherence": 0.649,
+    "error": 0.811
+  },
+  {
+    "key": "humanevalcomm_33__q3__desc1",
+    "task_id": 33,
+    "variant": "q3__desc1",
+    "name": "sort_third",
+    "nb_candidates": 9,
+    "incoherence": 0.639
+  },
+  {
+    "key": "humanevalcomm_33__q3__desc2",
+    "task_id": 33,
+    "variant": "q3__desc2",
+    "name": "sort_third",
+    "nb_candidates": 7,
+    "incoherence": 0.558
+  },
+  {
+    "key": "humanevalcomm_33__q3__oracle",
+    "task_id": 33,
+    "variant": "q3__oracle",
+    "name": "sort_third",
+    "nb_candidates": 10,
+    "incoherence": 0.442,
+    "error": 0.897
+  },
+  {
+    "key": "humanevalcomm_34__q1__desc1",
+    "task_id": 34,
+    "variant": "q1__desc1",
+    "name": "unique",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_34__q1__desc2",
+    "task_id": 34,
+    "variant": "q1__desc2",
+    "name": "unique",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_34__q1__oracle",
+    "task_id": 34,
+    "variant": "q1__oracle",
+    "name": "unique",
+    "nb_candidates": 10,
+    "incoherence": 0.219,
+    "error": 0.113
+  },
+  {
+    "key": "humanevalcomm_34__q2__desc1",
+    "task_id": 34,
+    "variant": "q2__desc1",
+    "name": "unique",
+    "nb_candidates": 10,
+    "incoherence": 0.188
+  },
+  {
+    "key": "humanevalcomm_34__q2__desc2",
+    "task_id": 34,
+    "variant": "q2__desc2",
+    "name": "unique",
+    "nb_candidates": 10,
+    "incoherence": 0.016
+  },
+  {
+    "key": "humanevalcomm_34__q2__oracle",
+    "task_id": 34,
+    "variant": "q2__oracle",
+    "name": "unique",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_34__q3__desc1",
+    "task_id": 34,
+    "variant": "q3__desc1",
+    "name": "unique",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_34__q3__desc2",
+    "task_id": 34,
+    "variant": "q3__desc2",
+    "name": "unique",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_34__q3__oracle",
+    "task_id": 34,
+    "variant": "q3__oracle",
+    "name": "unique",
+    "nb_candidates": 10,
+    "incoherence": 0.191,
+    "error": 0.114
+  },
+  {
+    "key": "humanevalcomm_35__q1__desc1",
+    "task_id": 35,
+    "variant": "q1__desc1",
+    "name": "max_element",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_35__q1__desc2",
+    "task_id": 35,
+    "variant": "q1__desc2",
+    "name": "max_element",
+    "nb_candidates": 10,
+    "incoherence": 0.359
+  },
+  {
+    "key": "humanevalcomm_35__q1__oracle",
+    "task_id": 35,
+    "variant": "q1__oracle",
+    "name": "max_element",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_35__q2__desc1",
+    "task_id": 35,
+    "variant": "q2__desc1",
+    "name": "max_element",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_35__q2__desc2",
+    "task_id": 35,
+    "variant": "q2__desc2",
+    "name": "max_element",
+    "nb_candidates": 10,
+    "incoherence": 0.029
+  },
+  {
+    "key": "humanevalcomm_35__q2__oracle",
+    "task_id": 35,
+    "variant": "q2__oracle",
+    "name": "max_element",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_35__q3__desc1",
+    "task_id": 35,
+    "variant": "q3__desc1",
+    "name": "max_element",
+    "nb_candidates": 10,
+    "incoherence": 0.392
+  },
+  {
+    "key": "humanevalcomm_35__q3__desc2",
+    "task_id": 35,
+    "variant": "q3__desc2",
+    "name": "max_element",
+    "nb_candidates": 10,
+    "incoherence": 0.194
+  },
+  {
+    "key": "humanevalcomm_35__q3__oracle",
+    "task_id": 35,
+    "variant": "q3__oracle",
+    "name": "max_element",
+    "nb_candidates": 10,
+    "incoherence": 0.478,
+    "error": 0.667
+  },
+  {
+    "key": "humanevalcomm_37__q1__desc1",
+    "task_id": 37,
+    "variant": "q1__desc1",
+    "name": "sort_even",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_37__q1__desc2",
+    "task_id": 37,
+    "variant": "q1__desc2",
+    "name": "sort_even",
+    "nb_candidates": 9,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_37__q1__oracle",
+    "task_id": 37,
+    "variant": "q1__oracle",
+    "name": "sort_even",
+    "nb_candidates": 10,
+    "incoherence": 0.198,
+    "error": 0.13
+  },
+  {
+    "key": "humanevalcomm_37__q2__desc1",
+    "task_id": 37,
+    "variant": "q2__desc1",
+    "name": "sort_even",
+    "nb_candidates": 6,
+    "incoherence": 0.306
+  },
+  {
+    "key": "humanevalcomm_37__q2__desc2",
+    "task_id": 37,
+    "variant": "q2__desc2",
+    "name": "sort_even",
+    "nb_candidates": 10,
+    "incoherence": 0.423
+  },
+  {
+    "key": "humanevalcomm_37__q2__oracle",
+    "task_id": 37,
+    "variant": "q2__oracle",
+    "name": "sort_even",
+    "nb_candidates": 7,
+    "incoherence": 0.683,
+    "error": 0.551
+  },
+  {
+    "key": "humanevalcomm_37__q3__desc1",
+    "task_id": 37,
+    "variant": "q3__desc1",
+    "name": "sort_even",
+    "nb_candidates": 5,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_37__q3__desc2",
+    "task_id": 37,
+    "variant": "q3__desc2",
+    "name": "sort_even",
+    "nb_candidates": 1,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_37__q3__oracle",
+    "task_id": 37,
+    "variant": "q3__oracle",
+    "name": "sort_even",
+    "nb_candidates": 7,
+    "incoherence": 0.656,
+    "error": 0.433
+  },
+  {
+    "key": "humanevalcomm_38__q1__desc1",
+    "task_id": 38,
+    "variant": "q1__desc1",
+    "name": "decode_cyclic",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_38__q1__desc2",
+    "task_id": 38,
+    "variant": "q1__desc2",
+    "name": "decode_cyclic",
+    "nb_candidates": 10,
+    "incoherence": 0.387
+  },
+  {
+    "key": "humanevalcomm_38__q1__oracle",
+    "task_id": 38,
+    "variant": "q1__oracle",
+    "name": "decode_cyclic",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_38__q2__desc1",
+    "task_id": 38,
+    "variant": "q2__desc1",
+    "name": "decode_cyclic",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_38__q2__desc2",
+    "task_id": 38,
+    "variant": "q2__desc2",
+    "name": "decode_cyclic",
+    "nb_candidates": 10,
+    "incoherence": 0.542
+  },
+  {
+    "key": "humanevalcomm_38__q2__oracle",
+    "task_id": 38,
+    "variant": "q2__oracle",
+    "name": "decode_cyclic",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_38__q3__desc1",
+    "task_id": 38,
+    "variant": "q3__desc1",
+    "name": "decode_cyclic",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_38__q3__desc2",
+    "task_id": 38,
+    "variant": "q3__desc2",
+    "name": "decode_cyclic",
+    "nb_candidates": 10,
+    "incoherence": 0.164
+  },
+  {
+    "key": "humanevalcomm_38__q3__oracle",
+    "task_id": 38,
+    "variant": "q3__oracle",
+    "name": "decode_cyclic",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_40__q1__desc1",
+    "task_id": 40,
+    "variant": "q1__desc1",
+    "name": "triples_sum_to_zero",
+    "nb_candidates": 9,
+    "incoherence": 0.002
+  },
+  {
+    "key": "humanevalcomm_40__q1__desc2",
+    "task_id": 40,
+    "variant": "q1__desc2",
+    "name": "triples_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.002
+  },
+  {
+    "key": "humanevalcomm_40__q1__oracle",
+    "task_id": 40,
+    "variant": "q1__oracle",
+    "name": "triples_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_40__q2__desc1",
+    "task_id": 40,
+    "variant": "q2__desc1",
+    "name": "triples_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.008
+  },
+  {
+    "key": "humanevalcomm_40__q2__desc2",
+    "task_id": 40,
+    "variant": "q2__desc2",
+    "name": "triples_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.002
+  },
+  {
+    "key": "humanevalcomm_40__q2__oracle",
+    "task_id": 40,
+    "variant": "q2__oracle",
+    "name": "triples_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.002,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_40__q3__desc1",
+    "task_id": 40,
+    "variant": "q3__desc1",
+    "name": "triples_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_40__q3__desc2",
+    "task_id": 40,
+    "variant": "q3__desc2",
+    "name": "triples_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_40__q3__oracle",
+    "task_id": 40,
+    "variant": "q3__oracle",
+    "name": "triples_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_43__q1__desc1",
+    "task_id": 43,
+    "variant": "q1__desc1",
+    "name": "pairs_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.28
+  },
+  {
+    "key": "humanevalcomm_43__q1__desc2",
+    "task_id": 43,
+    "variant": "q1__desc2",
+    "name": "pairs_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.005
+  },
+  {
+    "key": "humanevalcomm_43__q1__oracle",
+    "task_id": 43,
+    "variant": "q1__oracle",
+    "name": "pairs_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.011
+  },
+  {
+    "key": "humanevalcomm_43__q2__desc1",
+    "task_id": 43,
+    "variant": "q2__desc1",
+    "name": "pairs_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.442
+  },
+  {
+    "key": "humanevalcomm_43__q2__desc2",
+    "task_id": 43,
+    "variant": "q2__desc2",
+    "name": "pairs_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.002
+  },
+  {
+    "key": "humanevalcomm_43__q2__oracle",
+    "task_id": 43,
+    "variant": "q2__oracle",
+    "name": "pairs_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.11,
+    "error": 0.054
+  },
+  {
+    "key": "humanevalcomm_43__q3__desc1",
+    "task_id": 43,
+    "variant": "q3__desc1",
+    "name": "pairs_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.244
+  },
+  {
+    "key": "humanevalcomm_43__q3__desc2",
+    "task_id": 43,
+    "variant": "q3__desc2",
+    "name": "pairs_sum_to_zero",
+    "nb_candidates": 10,
+    "incoherence": 0.004
+  },
+  {
+    "key": "humanevalcomm_43__q3__oracle",
+    "task_id": 43,
+    "variant": "q3__oracle",
+    "name": "pairs_sum_to_zero",
+    "nb_candidates": 9,
+    "incoherence": 0.007,
+    "error": 0.005
+  },
+  {
+    "key": "humanevalcomm_45__q1__desc1",
+    "task_id": 45,
+    "variant": "q1__desc1",
+    "name": "triangle_area",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_45__q1__desc2",
+    "task_id": 45,
+    "variant": "q1__desc2",
+    "name": "triangle_area",
+    "nb_candidates": 10,
+    "incoherence": 0.174
+  },
+  {
+    "key": "humanevalcomm_45__q1__oracle",
+    "task_id": 45,
+    "variant": "q1__oracle",
+    "name": "triangle_area",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_45__q2__desc1",
+    "task_id": 45,
+    "variant": "q2__desc1",
+    "name": "triangle_area",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_45__q2__desc2",
+    "task_id": 45,
+    "variant": "q2__desc2",
+    "name": "triangle_area",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_45__q2__oracle",
+    "task_id": 45,
+    "variant": "q2__oracle",
+    "name": "triangle_area",
+    "nb_candidates": 10,
+    "incoherence": 0.339,
+    "error": 0.212
+  },
+  {
+    "key": "humanevalcomm_45__q3__desc1",
+    "task_id": 45,
+    "variant": "q3__desc1",
+    "name": "triangle_area",
+    "nb_candidates": 10,
+    "incoherence": 0.608
+  },
+  {
+    "key": "humanevalcomm_45__q3__desc2",
+    "task_id": 45,
+    "variant": "q3__desc2",
+    "name": "triangle_area",
+    "nb_candidates": 10,
+    "incoherence": 0.629
+  },
+  {
+    "key": "humanevalcomm_45__q3__oracle",
+    "task_id": 45,
+    "variant": "q3__oracle",
+    "name": "triangle_area",
+    "nb_candidates": 10,
+    "incoherence": 0.578,
+    "error": 0.653
+  },
+  {
+    "key": "humanevalcomm_46__q1__desc1",
+    "task_id": 46,
+    "variant": "q1__desc1",
+    "name": "fib4",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_46__q1__desc2",
+    "task_id": 46,
+    "variant": "q1__desc2",
+    "name": "fib4",
+    "nb_candidates": 10,
+    "incoherence": 0.022
+  },
+  {
+    "key": "humanevalcomm_46__q1__oracle",
+    "task_id": 46,
+    "variant": "q1__oracle",
+    "name": "fib4",
+    "nb_candidates": 10,
+    "incoherence": 0.032,
+    "error": 0.068
+  },
+  {
+    "key": "humanevalcomm_46__q2__desc1",
+    "task_id": 46,
+    "variant": "q2__desc1",
+    "name": "fib4",
+    "nb_candidates": 10,
+    "incoherence": 0.055
+  },
+  {
+    "key": "humanevalcomm_46__q2__desc2",
+    "task_id": 46,
+    "variant": "q2__desc2",
+    "name": "fib4",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_46__q2__oracle",
+    "task_id": 46,
+    "variant": "q2__oracle",
+    "name": "fib4",
+    "nb_candidates": 10,
+    "incoherence": 0.018,
+    "error": 0.02
+  },
+  {
+    "key": "humanevalcomm_46__q3__desc1",
+    "task_id": 46,
+    "variant": "q3__desc1",
+    "name": "fib4",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_46__q3__desc2",
+    "task_id": 46,
+    "variant": "q3__desc2",
+    "name": "fib4",
+    "nb_candidates": 10,
+    "incoherence": 0.02
+  },
+  {
+    "key": "humanevalcomm_46__q3__oracle",
+    "task_id": 46,
+    "variant": "q3__oracle",
+    "name": "fib4",
+    "nb_candidates": 10,
+    "incoherence": 0.041,
+    "error": 0.048
+  },
+  {
+    "key": "humanevalcomm_47__q1__desc1",
+    "task_id": 47,
+    "variant": "q1__desc1",
+    "name": "median",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_47__q1__desc2",
+    "task_id": 47,
+    "variant": "q1__desc2",
+    "name": "median",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_47__q1__oracle",
+    "task_id": 47,
+    "variant": "q1__oracle",
+    "name": "median",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_47__q2__desc1",
+    "task_id": 47,
+    "variant": "q2__desc1",
+    "name": "median",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_47__q2__desc2",
+    "task_id": 47,
+    "variant": "q2__desc2",
+    "name": "median",
+    "nb_candidates": 10,
+    "incoherence": 0.415
+  },
+  {
+    "key": "humanevalcomm_47__q2__oracle",
+    "task_id": 47,
+    "variant": "q2__oracle",
+    "name": "median",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_47__q3__desc1",
+    "task_id": 47,
+    "variant": "q3__desc1",
+    "name": "median",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_47__q3__desc2",
+    "task_id": 47,
+    "variant": "q3__desc2",
+    "name": "median",
+    "nb_candidates": 5,
+    "incoherence": 0.346
+  },
+  {
+    "key": "humanevalcomm_47__q3__oracle",
+    "task_id": 47,
+    "variant": "q3__oracle",
+    "name": "median",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.838
+  },
+  {
+    "key": "humanevalcomm_49__q1__desc1",
+    "task_id": 49,
+    "variant": "q1__desc1",
+    "name": "modp",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_49__q1__desc2",
+    "task_id": 49,
+    "variant": "q1__desc2",
+    "name": "modp",
+    "nb_candidates": 10,
+    "incoherence": 0.037
+  },
+  {
+    "key": "humanevalcomm_49__q1__oracle",
+    "task_id": 49,
+    "variant": "q1__oracle",
+    "name": "modp",
+    "nb_candidates": 10,
+    "incoherence": 0.102,
+    "error": 0.12
+  },
+  {
+    "key": "humanevalcomm_49__q2__desc1",
+    "task_id": 49,
+    "variant": "q2__desc1",
+    "name": "modp",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_49__q2__desc2",
+    "task_id": 49,
+    "variant": "q2__desc2",
+    "name": "modp",
+    "nb_candidates": 10,
+    "incoherence": 0.431
+  },
+  {
+    "key": "humanevalcomm_49__q2__oracle",
+    "task_id": 49,
+    "variant": "q2__oracle",
+    "name": "modp",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.205
+  },
+  {
+    "key": "humanevalcomm_49__q3__desc1",
+    "task_id": 49,
+    "variant": "q3__desc1",
+    "name": "modp",
+    "nb_candidates": 10,
+    "incoherence": 0.011
+  },
+  {
+    "key": "humanevalcomm_49__q3__desc2",
+    "task_id": 49,
+    "variant": "q3__desc2",
+    "name": "modp",
+    "nb_candidates": 10,
+    "incoherence": 0.707
+  },
+  {
+    "key": "humanevalcomm_49__q3__oracle",
+    "task_id": 49,
+    "variant": "q3__oracle",
+    "name": "modp",
+    "nb_candidates": 10,
+    "incoherence": 0.456,
+    "error": 0.272
+  },
+  {
+    "key": "humanevalcomm_50__q1__desc1",
+    "task_id": 50,
+    "variant": "q1__desc1",
+    "name": "decode_shift",
+    "nb_candidates": 10,
+    "incoherence": 0.126
+  },
+  {
+    "key": "humanevalcomm_50__q1__desc2",
+    "task_id": 50,
+    "variant": "q1__desc2",
+    "name": "decode_shift",
+    "nb_candidates": 10,
+    "incoherence": 0.254
+  },
+  {
+    "key": "humanevalcomm_50__q1__oracle",
+    "task_id": 50,
+    "variant": "q1__oracle",
+    "name": "decode_shift",
+    "nb_candidates": 10,
+    "incoherence": 0.187,
+    "error": 0.97
+  },
+  {
+    "key": "humanevalcomm_50__q2__desc1",
+    "task_id": 50,
+    "variant": "q2__desc1",
+    "name": "decode_shift",
+    "nb_candidates": 10,
+    "incoherence": 0.126
+  },
+  {
+    "key": "humanevalcomm_50__q2__desc2",
+    "task_id": 50,
+    "variant": "q2__desc2",
+    "name": "decode_shift",
+    "nb_candidates": 10,
+    "incoherence": 0.052
+  },
+  {
+    "key": "humanevalcomm_50__q2__oracle",
+    "task_id": 50,
+    "variant": "q2__oracle",
+    "name": "decode_shift",
+    "nb_candidates": 10,
+    "incoherence": 0.142,
+    "error": 0.965
+  },
+  {
+    "key": "humanevalcomm_50__q3__desc1",
+    "task_id": 50,
+    "variant": "q3__desc1",
+    "name": "decode_shift",
+    "nb_candidates": 10,
+    "incoherence": 0.095
+  },
+  {
+    "key": "humanevalcomm_50__q3__desc2",
+    "task_id": 50,
+    "variant": "q3__desc2",
+    "name": "decode_shift",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_50__q3__oracle",
+    "task_id": 50,
+    "variant": "q3__oracle",
+    "name": "decode_shift",
+    "nb_candidates": 10,
+    "incoherence": 0.396,
+    "error": 0.968
+  },
+  {
+    "key": "humanevalcomm_52__q1__desc1",
+    "task_id": 52,
+    "variant": "q1__desc1",
+    "name": "below_threshold",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_52__q1__desc2",
+    "task_id": 52,
+    "variant": "q1__desc2",
+    "name": "below_threshold",
+    "nb_candidates": 10,
+    "incoherence": 0.34
+  },
+  {
+    "key": "humanevalcomm_52__q1__oracle",
+    "task_id": 52,
+    "variant": "q1__oracle",
+    "name": "below_threshold",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_52__q2__desc1",
+    "task_id": 52,
+    "variant": "q2__desc1",
+    "name": "below_threshold",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_52__q2__desc2",
+    "task_id": 52,
+    "variant": "q2__desc2",
+    "name": "below_threshold",
+    "nb_candidates": 10,
+    "incoherence": 0.366
+  },
+  {
+    "key": "humanevalcomm_52__q2__oracle",
+    "task_id": 52,
+    "variant": "q2__oracle",
+    "name": "below_threshold",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_52__q3__desc1",
+    "task_id": 52,
+    "variant": "q3__desc1",
+    "name": "below_threshold",
+    "nb_candidates": 10,
+    "incoherence": 0.215
+  },
+  {
+    "key": "humanevalcomm_52__q3__desc2",
+    "task_id": 52,
+    "variant": "q3__desc2",
+    "name": "below_threshold",
+    "nb_candidates": 10,
+    "incoherence": 0.698
+  },
+  {
+    "key": "humanevalcomm_52__q3__oracle",
+    "task_id": 52,
+    "variant": "q3__oracle",
+    "name": "below_threshold",
+    "nb_candidates": 10,
+    "incoherence": 0.561,
+    "error": 0.414
+  },
+  {
+    "key": "humanevalcomm_53__q1__desc1",
+    "task_id": 53,
+    "variant": "q1__desc1",
+    "name": "add",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_53__q1__desc2",
+    "task_id": 53,
+    "variant": "q1__desc2",
+    "name": "add",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_53__q1__oracle",
+    "task_id": 53,
+    "variant": "q1__oracle",
+    "name": "add",
+    "nb_candidates": 10,
+    "incoherence": null,
+    "incoherence_error": "TimeoutError: ",
+    "error": null,
+    "error_error": "TimeoutError: "
+  },
+  {
+    "key": "humanevalcomm_53__q2__desc1",
+    "task_id": 53,
+    "variant": "q2__desc1",
+    "name": "add",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_53__q2__desc2",
+    "task_id": 53,
+    "variant": "q2__desc2",
+    "name": "add",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_53__q2__oracle",
+    "task_id": 53,
+    "variant": "q2__oracle",
+    "name": "add",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 1.0
+  },
+  {
+    "key": "humanevalcomm_53__q3__desc1",
+    "task_id": 53,
+    "variant": "q3__desc1",
+    "name": "add",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_53__q3__desc2",
+    "task_id": 53,
+    "variant": "q3__desc2",
+    "name": "add",
+    "nb_candidates": 10,
+    "incoherence": 0.118
+  },
+  {
+    "key": "humanevalcomm_53__q3__oracle",
+    "task_id": 53,
+    "variant": "q3__oracle",
+    "name": "add",
+    "nb_candidates": 10,
+    "incoherence": 0.478,
+    "error": 0.951
+  },
+  {
+    "key": "humanevalcomm_54__q1__desc1",
+    "task_id": 54,
+    "variant": "q1__desc1",
+    "name": "same_chars",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_54__q1__desc2",
+    "task_id": 54,
+    "variant": "q1__desc2",
+    "name": "same_chars",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_54__q1__oracle",
+    "task_id": 54,
+    "variant": "q1__oracle",
+    "name": "same_chars",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_54__q2__desc1",
+    "task_id": 54,
+    "variant": "q2__desc1",
+    "name": "same_chars",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_54__q2__desc2",
+    "task_id": 54,
+    "variant": "q2__desc2",
+    "name": "same_chars",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_54__q2__oracle",
+    "task_id": 54,
+    "variant": "q2__oracle",
+    "name": "same_chars",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_54__q3__desc1",
+    "task_id": 54,
+    "variant": "q3__desc1",
+    "name": "same_chars",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_54__q3__desc2",
+    "task_id": 54,
+    "variant": "q3__desc2",
+    "name": "same_chars",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_54__q3__oracle",
+    "task_id": 54,
+    "variant": "q3__oracle",
+    "name": "same_chars",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_56__q1__desc1",
+    "task_id": 56,
+    "variant": "q1__desc1",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.386
+  },
+  {
+    "key": "humanevalcomm_56__q1__desc2",
+    "task_id": 56,
+    "variant": "q1__desc2",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.251
+  },
+  {
+    "key": "humanevalcomm_56__q1__oracle",
+    "task_id": 56,
+    "variant": "q1__oracle",
+    "name": "correct_bracketing",
+    "nb_candidates": 3,
+    "incoherence": 0.633,
+    "error": 0.454
+  },
+  {
+    "key": "humanevalcomm_56__q2__desc1",
+    "task_id": 56,
+    "variant": "q2__desc1",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_56__q2__desc2",
+    "task_id": 56,
+    "variant": "q2__desc2",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.638
+  },
+  {
+    "key": "humanevalcomm_56__q2__oracle",
+    "task_id": 56,
+    "variant": "q2__oracle",
+    "name": "correct_bracketing",
+    "nb_candidates": 7,
+    "incoherence": 0.375,
+    "error": 0.62
+  },
+  {
+    "key": "humanevalcomm_56__q3__desc1",
+    "task_id": 56,
+    "variant": "q3__desc1",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.532
+  },
+  {
+    "key": "humanevalcomm_56__q3__desc2",
+    "task_id": 56,
+    "variant": "q3__desc2",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_56__q3__oracle",
+    "task_id": 56,
+    "variant": "q3__oracle",
+    "name": "correct_bracketing",
+    "nb_candidates": 3,
+    "incoherence": 0.667,
+    "error": 0.635
+  },
+  {
+    "key": "humanevalcomm_57__q1__desc1",
+    "task_id": 57,
+    "variant": "q1__desc1",
+    "name": "monotonic",
+    "nb_candidates": 10,
+    "incoherence": 0.526
+  },
+  {
+    "key": "humanevalcomm_57__q1__desc2",
+    "task_id": 57,
+    "variant": "q1__desc2",
+    "name": "monotonic",
+    "nb_candidates": 10,
+    "incoherence": 0.342
+  },
+  {
+    "key": "humanevalcomm_57__q1__oracle",
+    "task_id": 57,
+    "variant": "q1__oracle",
+    "name": "monotonic",
+    "nb_candidates": 10,
+    "incoherence": 0.491,
+    "error": 0.483
+  },
+  {
+    "key": "humanevalcomm_57__q2__desc1",
+    "task_id": 57,
+    "variant": "q2__desc1",
+    "name": "monotonic",
+    "nb_candidates": 10,
+    "incoherence": 0.217
+  },
+  {
+    "key": "humanevalcomm_57__q2__desc2",
+    "task_id": 57,
+    "variant": "q2__desc2",
+    "name": "monotonic",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_57__q2__oracle",
+    "task_id": 57,
+    "variant": "q2__oracle",
+    "name": "monotonic",
+    "nb_candidates": 10,
+    "incoherence": 0.507,
+    "error": 0.593
+  },
+  {
+    "key": "humanevalcomm_57__q3__desc1",
+    "task_id": 57,
+    "variant": "q3__desc1",
+    "name": "monotonic",
+    "nb_candidates": 10,
+    "incoherence": 0.356
+  },
+  {
+    "key": "humanevalcomm_57__q3__desc2",
+    "task_id": 57,
+    "variant": "q3__desc2",
+    "name": "monotonic",
+    "nb_candidates": 10,
+    "incoherence": 0.324
+  },
+  {
+    "key": "humanevalcomm_57__q3__oracle",
+    "task_id": 57,
+    "variant": "q3__oracle",
+    "name": "monotonic",
+    "nb_candidates": 10,
+    "incoherence": 0.466,
+    "error": 0.274
+  },
+  {
+    "key": "humanevalcomm_58__q1__desc1",
+    "task_id": 58,
+    "variant": "q1__desc1",
+    "name": "common",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_58__q1__desc2",
+    "task_id": 58,
+    "variant": "q1__desc2",
+    "name": "common",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_58__q1__oracle",
+    "task_id": 58,
+    "variant": "q1__oracle",
+    "name": "common",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.383
+  },
+  {
+    "key": "humanevalcomm_58__q2__desc1",
+    "task_id": 58,
+    "variant": "q2__desc1",
+    "name": "common",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_58__q2__desc2",
+    "task_id": 58,
+    "variant": "q2__desc2",
+    "name": "common",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_58__q2__oracle",
+    "task_id": 58,
+    "variant": "q2__oracle",
+    "name": "common",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.459
+  },
+  {
+    "key": "humanevalcomm_58__q3__desc1",
+    "task_id": 58,
+    "variant": "q3__desc1",
+    "name": "common",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_58__q3__desc2",
+    "task_id": 58,
+    "variant": "q3__desc2",
+    "name": "common",
+    "nb_candidates": 10,
+    "incoherence": 0.373
+  },
+  {
+    "key": "humanevalcomm_58__q3__oracle",
+    "task_id": 58,
+    "variant": "q3__oracle",
+    "name": "common",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.458
+  },
+  {
+    "key": "humanevalcomm_59__q1__desc1",
+    "task_id": 59,
+    "variant": "q1__desc1",
+    "name": "largest_prime_factor",
+    "nb_candidates": 10,
+    "incoherence": null,
+    "incoherence_error": "TimeoutError: "
+  },
+  {
+    "key": "humanevalcomm_59__q1__desc2",
+    "task_id": 59,
+    "variant": "q1__desc2",
+    "name": "largest_prime_factor",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_59__q1__oracle",
+    "task_id": 59,
+    "variant": "q1__oracle",
+    "name": "largest_prime_factor",
+    "nb_candidates": 10,
+    "incoherence": 0.046,
+    "error": null,
+    "error_error": "TimeoutError: "
+  },
+  {
+    "key": "humanevalcomm_59__q2__desc1",
+    "task_id": 59,
+    "variant": "q2__desc1",
+    "name": "largest_prime_factor",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_59__q2__desc2",
+    "task_id": 59,
+    "variant": "q2__desc2",
+    "name": "largest_prime_factor",
+    "nb_candidates": 10,
+    "incoherence": null,
+    "incoherence_error": "TimeoutError: "
+  },
+  {
+    "key": "humanevalcomm_59__q2__oracle",
+    "task_id": 59,
+    "variant": "q2__oracle",
+    "name": "largest_prime_factor",
+    "nb_candidates": 10,
+    "incoherence": null,
+    "incoherence_error": "TimeoutError: ",
+    "error": null,
+    "error_error": "TimeoutError: "
+  },
+  {
+    "key": "humanevalcomm_59__q3__desc1",
+    "task_id": 59,
+    "variant": "q3__desc1",
+    "name": "largest_prime_factor",
+    "nb_candidates": 10,
+    "incoherence": null,
+    "incoherence_error": "TimeoutError: "
+  },
+  {
+    "key": "humanevalcomm_59__q3__desc2",
+    "task_id": 59,
+    "variant": "q3__desc2",
+    "name": "largest_prime_factor",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_59__q3__oracle",
+    "task_id": 59,
+    "variant": "q3__oracle",
+    "name": "largest_prime_factor",
+    "nb_candidates": 10,
+    "incoherence": null,
+    "incoherence_error": "TimeoutError: ",
+    "error": null,
+    "error_error": "TimeoutError: "
+  },
+  {
+    "key": "humanevalcomm_5__q1__desc1",
+    "task_id": 5,
+    "variant": "q1__desc1",
+    "name": "intersperse",
+    "nb_candidates": 10,
+    "incoherence": 0.042
+  },
+  {
+    "key": "humanevalcomm_5__q1__desc2",
+    "task_id": 5,
+    "variant": "q1__desc2",
+    "name": "intersperse",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_5__q1__oracle",
+    "task_id": 5,
+    "variant": "q1__oracle",
+    "name": "intersperse",
+    "nb_candidates": 10,
+    "incoherence": 0.05,
+    "error": 0.024
+  },
+  {
+    "key": "humanevalcomm_5__q2__desc1",
+    "task_id": 5,
+    "variant": "q2__desc1",
+    "name": "intersperse",
+    "nb_candidates": 10,
+    "incoherence": 0.196
+  },
+  {
+    "key": "humanevalcomm_5__q2__desc2",
+    "task_id": 5,
+    "variant": "q2__desc2",
+    "name": "intersperse",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_5__q2__oracle",
+    "task_id": 5,
+    "variant": "q2__oracle",
+    "name": "intersperse",
+    "nb_candidates": 10,
+    "incoherence": 0.182,
+    "error": 0.849
+  },
+  {
+    "key": "humanevalcomm_5__q3__desc1",
+    "task_id": 5,
+    "variant": "q3__desc1",
+    "name": "intersperse",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_5__q3__desc2",
+    "task_id": 5,
+    "variant": "q3__desc2",
+    "name": "intersperse",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_5__q3__oracle",
+    "task_id": 5,
+    "variant": "q3__oracle",
+    "name": "intersperse",
+    "nb_candidates": 10,
+    "incoherence": 0.022,
+    "error": 0.008
+  },
+  {
+    "key": "humanevalcomm_61__q1__desc1",
+    "task_id": 61,
+    "variant": "q1__desc1",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.191
+  },
+  {
+    "key": "humanevalcomm_61__q1__desc2",
+    "task_id": 61,
+    "variant": "q1__desc2",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_61__q1__oracle",
+    "task_id": 61,
+    "variant": "q1__oracle",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.547,
+    "error": 0.513
+  },
+  {
+    "key": "humanevalcomm_61__q2__desc1",
+    "task_id": 61,
+    "variant": "q2__desc1",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_61__q2__desc2",
+    "task_id": 61,
+    "variant": "q2__desc2",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.506
+  },
+  {
+    "key": "humanevalcomm_61__q2__oracle",
+    "task_id": 61,
+    "variant": "q2__oracle",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.476,
+    "error": 0.518
+  },
+  {
+    "key": "humanevalcomm_61__q3__desc1",
+    "task_id": 61,
+    "variant": "q3__desc1",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_61__q3__desc2",
+    "task_id": 61,
+    "variant": "q3__desc2",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_61__q3__oracle",
+    "task_id": 61,
+    "variant": "q3__oracle",
+    "name": "correct_bracketing",
+    "nb_candidates": 10,
+    "incoherence": 0.516,
+    "error": 0.482
+  },
+  {
+    "key": "humanevalcomm_65__q1__desc1",
+    "task_id": 65,
+    "variant": "q1__desc1",
+    "name": "circular_shift",
+    "nb_candidates": 8,
+    "incoherence": 0.049
+  },
+  {
+    "key": "humanevalcomm_65__q1__desc2",
+    "task_id": 65,
+    "variant": "q1__desc2",
+    "name": "circular_shift",
+    "nb_candidates": 6,
+    "incoherence": 0.117
+  },
+  {
+    "key": "humanevalcomm_65__q1__oracle",
+    "task_id": 65,
+    "variant": "q1__oracle",
+    "name": "circular_shift",
+    "nb_candidates": 10,
+    "incoherence": 0.023,
+    "error": 0.121
+  },
+  {
+    "key": "humanevalcomm_65__q2__desc1",
+    "task_id": 65,
+    "variant": "q2__desc1",
+    "name": "circular_shift",
+    "nb_candidates": 5,
+    "incoherence": 0.051
+  },
+  {
+    "key": "humanevalcomm_65__q2__desc2",
+    "task_id": 65,
+    "variant": "q2__desc2",
+    "name": "circular_shift",
+    "nb_candidates": 2,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_65__q2__oracle",
+    "task_id": 65,
+    "variant": "q2__oracle",
+    "name": "circular_shift",
+    "nb_candidates": 5,
+    "incoherence": 0.454,
+    "error": 0.246
+  },
+  {
+    "key": "humanevalcomm_65__q3__desc1",
+    "task_id": 65,
+    "variant": "q3__desc1",
+    "name": "circular_shift",
+    "nb_candidates": 8,
+    "incoherence": 0.013
+  },
+  {
+    "key": "humanevalcomm_65__q3__oracle",
+    "task_id": 65,
+    "variant": "q3__oracle",
+    "name": "circular_shift",
+    "nb_candidates": 9,
+    "incoherence": 0.054,
+    "error": 0.097
+  },
+  {
+    "key": "humanevalcomm_67__q1__desc1",
+    "task_id": 67,
+    "variant": "q1__desc1",
+    "name": "fruit_distribution",
+    "nb_candidates": 10,
+    "incoherence": 0.131
+  },
+  {
+    "key": "humanevalcomm_67__q1__desc2",
+    "task_id": 67,
+    "variant": "q1__desc2",
+    "name": "fruit_distribution",
+    "nb_candidates": 10,
+    "incoherence": 0.132
+  },
+  {
+    "key": "humanevalcomm_67__q1__oracle",
+    "task_id": 67,
+    "variant": "q1__oracle",
+    "name": "fruit_distribution",
+    "nb_candidates": 10,
+    "incoherence": 0.326,
+    "error": 0.495
+  },
+  {
+    "key": "humanevalcomm_67__q2__desc1",
+    "task_id": 67,
+    "variant": "q2__desc1",
+    "name": "fruit_distribution",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_67__q2__desc2",
+    "task_id": 67,
+    "variant": "q2__desc2",
+    "name": "fruit_distribution",
+    "nb_candidates": 10,
+    "incoherence": 0.202
+  },
+  {
+    "key": "humanevalcomm_67__q2__oracle",
+    "task_id": 67,
+    "variant": "q2__oracle",
+    "name": "fruit_distribution",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.326
+  },
+  {
+    "key": "humanevalcomm_67__q3__desc1",
+    "task_id": 67,
+    "variant": "q3__desc1",
+    "name": "fruit_distribution",
+    "nb_candidates": 10,
+    "incoherence": 0.131
+  },
+  {
+    "key": "humanevalcomm_67__q3__desc2",
+    "task_id": 67,
+    "variant": "q3__desc2",
+    "name": "fruit_distribution",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_67__q3__oracle",
+    "task_id": 67,
+    "variant": "q3__oracle",
+    "name": "fruit_distribution",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.327
+  },
+  {
+    "key": "humanevalcomm_68__q1__desc1",
+    "task_id": 68,
+    "variant": "q1__desc1",
+    "name": "pluck",
+    "nb_candidates": 10,
+    "incoherence": 0.818
+  },
+  {
+    "key": "humanevalcomm_68__q1__desc2",
+    "task_id": 68,
+    "variant": "q1__desc2",
+    "name": "pluck",
+    "nb_candidates": 10,
+    "incoherence": 0.174
+  },
+  {
+    "key": "humanevalcomm_68__q1__oracle",
+    "task_id": 68,
+    "variant": "q1__oracle",
+    "name": "pluck",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_68__q2__desc1",
+    "task_id": 68,
+    "variant": "q2__desc1",
+    "name": "pluck",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_68__q2__desc2",
+    "task_id": 68,
+    "variant": "q2__desc2",
+    "name": "pluck",
+    "nb_candidates": 10,
+    "incoherence": 0.15
+  },
+  {
+    "key": "humanevalcomm_68__q2__oracle",
+    "task_id": 68,
+    "variant": "q2__oracle",
+    "name": "pluck",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_68__q3__desc1",
+    "task_id": 68,
+    "variant": "q3__desc1",
+    "name": "pluck",
+    "nb_candidates": 10,
+    "incoherence": 0.084
+  },
+  {
+    "key": "humanevalcomm_68__q3__desc2",
+    "task_id": 68,
+    "variant": "q3__desc2",
+    "name": "pluck",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_68__q3__oracle",
+    "task_id": 68,
+    "variant": "q3__oracle",
+    "name": "pluck",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_69__q1__desc1",
+    "task_id": 69,
+    "variant": "q1__desc1",
+    "name": "search",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_69__q1__desc2",
+    "task_id": 69,
+    "variant": "q1__desc2",
+    "name": "search",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_69__q1__oracle",
+    "task_id": 69,
+    "variant": "q1__oracle",
+    "name": "search",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.016
+  },
+  {
+    "key": "humanevalcomm_69__q2__desc1",
+    "task_id": 69,
+    "variant": "q2__desc1",
+    "name": "search",
+    "nb_candidates": 10,
+    "incoherence": 0.01
+  },
+  {
+    "key": "humanevalcomm_69__q2__desc2",
+    "task_id": 69,
+    "variant": "q2__desc2",
+    "name": "search",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_69__q2__oracle",
+    "task_id": 69,
+    "variant": "q2__oracle",
+    "name": "search",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.025
+  },
+  {
+    "key": "humanevalcomm_69__q3__desc1",
+    "task_id": 69,
+    "variant": "q3__desc1",
+    "name": "search",
+    "nb_candidates": 10,
+    "incoherence": 0.021
+  },
+  {
+    "key": "humanevalcomm_69__q3__oracle",
+    "task_id": 69,
+    "variant": "q3__oracle",
+    "name": "search",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.023
+  },
+  {
+    "key": "humanevalcomm_70__q1__desc1",
+    "task_id": 70,
+    "variant": "q1__desc1",
+    "name": "strange_sort_list",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_70__q1__desc2",
+    "task_id": 70,
+    "variant": "q1__desc2",
+    "name": "strange_sort_list",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_70__q1__oracle",
+    "task_id": 70,
+    "variant": "q1__oracle",
+    "name": "strange_sort_list",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_70__q2__desc1",
+    "task_id": 70,
+    "variant": "q2__desc1",
+    "name": "strange_sort_list",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_70__q2__desc2",
+    "task_id": 70,
+    "variant": "q2__desc2",
+    "name": "strange_sort_list",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_70__q2__oracle",
+    "task_id": 70,
+    "variant": "q2__oracle",
+    "name": "strange_sort_list",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_70__q3__desc1",
+    "task_id": 70,
+    "variant": "q3__desc1",
+    "name": "strange_sort_list",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_70__q3__desc2",
+    "task_id": 70,
+    "variant": "q3__desc2",
+    "name": "strange_sort_list",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_70__q3__oracle",
+    "task_id": 70,
+    "variant": "q3__oracle",
+    "name": "strange_sort_list",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_72__q1__desc1",
+    "task_id": 72,
+    "variant": "q1__desc1",
+    "name": "will_it_fly",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_72__q1__desc2",
+    "task_id": 72,
+    "variant": "q1__desc2",
+    "name": "will_it_fly",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_72__q1__oracle",
+    "task_id": 72,
+    "variant": "q1__oracle",
+    "name": "will_it_fly",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_72__q2__desc1",
+    "task_id": 72,
+    "variant": "q2__desc1",
+    "name": "will_it_fly",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_72__q2__desc2",
+    "task_id": 72,
+    "variant": "q2__desc2",
+    "name": "will_it_fly",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_72__q2__oracle",
+    "task_id": 72,
+    "variant": "q2__oracle",
+    "name": "will_it_fly",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_72__q3__desc1",
+    "task_id": 72,
+    "variant": "q3__desc1",
+    "name": "will_it_fly",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_72__q3__desc2",
+    "task_id": 72,
+    "variant": "q3__desc2",
+    "name": "will_it_fly",
+    "nb_candidates": 10,
+    "incoherence": 0.387
+  },
+  {
+    "key": "humanevalcomm_72__q3__oracle",
+    "task_id": 72,
+    "variant": "q3__oracle",
+    "name": "will_it_fly",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_73__q1__desc1",
+    "task_id": 73,
+    "variant": "q1__desc1",
+    "name": "smallest_change",
+    "nb_candidates": 10,
+    "incoherence": 0.502
+  },
+  {
+    "key": "humanevalcomm_73__q1__desc2",
+    "task_id": 73,
+    "variant": "q1__desc2",
+    "name": "smallest_change",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_73__q1__oracle",
+    "task_id": 73,
+    "variant": "q1__oracle",
+    "name": "smallest_change",
+    "nb_candidates": 6,
+    "incoherence": 0.346,
+    "error": 0.985
+  },
+  {
+    "key": "humanevalcomm_73__q2__desc1",
+    "task_id": 73,
+    "variant": "q2__desc1",
+    "name": "smallest_change",
+    "nb_candidates": 10,
+    "incoherence": 0.212
+  },
+  {
+    "key": "humanevalcomm_73__q2__desc2",
+    "task_id": 73,
+    "variant": "q2__desc2",
+    "name": "smallest_change",
+    "nb_candidates": 10,
+    "incoherence": 0.186
+  },
+  {
+    "key": "humanevalcomm_73__q2__oracle",
+    "task_id": 73,
+    "variant": "q2__oracle",
+    "name": "smallest_change",
+    "nb_candidates": 9,
+    "incoherence": 0.23,
+    "error": 0.109
+  },
+  {
+    "key": "humanevalcomm_73__q3__desc1",
+    "task_id": 73,
+    "variant": "q3__desc1",
+    "name": "smallest_change",
+    "nb_candidates": 10,
+    "incoherence": 0.454
+  },
+  {
+    "key": "humanevalcomm_73__q3__desc2",
+    "task_id": 73,
+    "variant": "q3__desc2",
+    "name": "smallest_change",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_73__q3__oracle",
+    "task_id": 73,
+    "variant": "q3__oracle",
+    "name": "smallest_change",
+    "nb_candidates": 3,
+    "incoherence": 0.0,
+    "error": 0.978
+  },
+  {
+    "key": "humanevalcomm_74__q1__desc1",
+    "task_id": 74,
+    "variant": "q1__desc1",
+    "name": "total_match",
+    "nb_candidates": 10,
+    "incoherence": 0.005
+  },
+  {
+    "key": "humanevalcomm_74__q1__desc2",
+    "task_id": 74,
+    "variant": "q1__desc2",
+    "name": "total_match",
+    "nb_candidates": 8,
+    "incoherence": 0.257
+  },
+  {
+    "key": "humanevalcomm_74__q1__oracle",
+    "task_id": 74,
+    "variant": "q1__oracle",
+    "name": "total_match",
+    "nb_candidates": 7,
+    "incoherence": 0.449,
+    "error": 0.659
+  },
+  {
+    "key": "humanevalcomm_74__q2__desc1",
+    "task_id": 74,
+    "variant": "q2__desc1",
+    "name": "total_match",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_74__q2__desc2",
+    "task_id": 74,
+    "variant": "q2__desc2",
+    "name": "total_match",
+    "nb_candidates": 10,
+    "incoherence": 0.007
+  },
+  {
+    "key": "humanevalcomm_74__q2__oracle",
+    "task_id": 74,
+    "variant": "q2__oracle",
+    "name": "total_match",
+    "nb_candidates": 9,
+    "incoherence": 0.005,
+    "error": 0.05
+  },
+  {
+    "key": "humanevalcomm_74__q3__desc1",
+    "task_id": 74,
+    "variant": "q3__desc1",
+    "name": "total_match",
+    "nb_candidates": 10,
+    "incoherence": 0.166
+  },
+  {
+    "key": "humanevalcomm_74__q3__desc2",
+    "task_id": 74,
+    "variant": "q3__desc2",
+    "name": "total_match",
+    "nb_candidates": 10,
+    "incoherence": 0.029
+  },
+  {
+    "key": "humanevalcomm_74__q3__oracle",
+    "task_id": 74,
+    "variant": "q3__oracle",
+    "name": "total_match",
+    "nb_candidates": 10,
+    "incoherence": 0.156,
+    "error": 0.098
+  },
+  {
+    "key": "humanevalcomm_77__q1__desc1",
+    "task_id": 77,
+    "variant": "q1__desc1",
+    "name": "iscube",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_77__q1__desc2",
+    "task_id": 77,
+    "variant": "q1__desc2",
+    "name": "iscube",
+    "nb_candidates": 10,
+    "incoherence": 0.344
+  },
+  {
+    "key": "humanevalcomm_77__q1__oracle",
+    "task_id": 77,
+    "variant": "q1__oracle",
+    "name": "iscube",
+    "nb_candidates": 10,
+    "incoherence": 0.221,
+    "error": 0.092
+  },
+  {
+    "key": "humanevalcomm_77__q2__desc1",
+    "task_id": 77,
+    "variant": "q2__desc1",
+    "name": "iscube",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_77__q2__desc2",
+    "task_id": 77,
+    "variant": "q2__desc2",
+    "name": "iscube",
+    "nb_candidates": 10,
+    "incoherence": 0.524
+  },
+  {
+    "key": "humanevalcomm_77__q2__oracle",
+    "task_id": 77,
+    "variant": "q2__oracle",
+    "name": "iscube",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_77__q3__desc1",
+    "task_id": 77,
+    "variant": "q3__desc1",
+    "name": "iscube",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_77__q3__desc2",
+    "task_id": 77,
+    "variant": "q3__desc2",
+    "name": "iscube",
+    "nb_candidates": 10,
+    "incoherence": 0.334
+  },
+  {
+    "key": "humanevalcomm_77__q3__oracle",
+    "task_id": 77,
+    "variant": "q3__oracle",
+    "name": "iscube",
+    "nb_candidates": 10,
+    "incoherence": 0.009,
+    "error": 0.009
+  },
+  {
+    "key": "humanevalcomm_79__q1__desc1",
+    "task_id": 79,
+    "variant": "q1__desc1",
+    "name": "decimal_to_binary",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_79__q1__desc2",
+    "task_id": 79,
+    "variant": "q1__desc2",
+    "name": "decimal_to_binary",
+    "nb_candidates": 10,
+    "incoherence": 0.037
+  },
+  {
+    "key": "humanevalcomm_79__q1__oracle",
+    "task_id": 79,
+    "variant": "q1__oracle",
+    "name": "decimal_to_binary",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_79__q2__desc1",
+    "task_id": 79,
+    "variant": "q2__desc1",
+    "name": "decimal_to_binary",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_79__q2__desc2",
+    "task_id": 79,
+    "variant": "q2__desc2",
+    "name": "decimal_to_binary",
+    "nb_candidates": 10,
+    "incoherence": 0.038
+  },
+  {
+    "key": "humanevalcomm_79__q2__oracle",
+    "task_id": 79,
+    "variant": "q2__oracle",
+    "name": "decimal_to_binary",
+    "nb_candidates": 10,
+    "incoherence": 0.209,
+    "error": 0.1
+  },
+  {
+    "key": "humanevalcomm_79__q3__desc1",
+    "task_id": 79,
+    "variant": "q3__desc1",
+    "name": "decimal_to_binary",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_79__q3__desc2",
+    "task_id": 79,
+    "variant": "q3__desc2",
+    "name": "decimal_to_binary",
+    "nb_candidates": 10,
+    "incoherence": 0.421
+  },
+  {
+    "key": "humanevalcomm_79__q3__oracle",
+    "task_id": 79,
+    "variant": "q3__oracle",
+    "name": "decimal_to_binary",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_7__q1__desc1",
+    "task_id": 7,
+    "variant": "q1__desc1",
+    "name": "filter_by_substring",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_7__q1__desc2",
+    "task_id": 7,
+    "variant": "q1__desc2",
+    "name": "filter_by_substring",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_7__q1__oracle",
+    "task_id": 7,
+    "variant": "q1__oracle",
+    "name": "filter_by_substring",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_7__q2__desc1",
+    "task_id": 7,
+    "variant": "q2__desc1",
+    "name": "filter_by_substring",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_7__q2__desc2",
+    "task_id": 7,
+    "variant": "q2__desc2",
+    "name": "filter_by_substring",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_7__q2__oracle",
+    "task_id": 7,
+    "variant": "q2__oracle",
+    "name": "filter_by_substring",
+    "nb_candidates": 10,
+    "incoherence": 0.179,
+    "error": 0.083
+  },
+  {
+    "key": "humanevalcomm_7__q3__desc1",
+    "task_id": 7,
+    "variant": "q3__desc1",
+    "name": "filter_by_substring",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_7__q3__desc2",
+    "task_id": 7,
+    "variant": "q3__desc2",
+    "name": "filter_by_substring",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_7__q3__oracle",
+    "task_id": 7,
+    "variant": "q3__oracle",
+    "name": "filter_by_substring",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_80__q1__desc1",
+    "task_id": 80,
+    "variant": "q1__desc1",
+    "name": "is_happy",
+    "nb_candidates": 10,
+    "incoherence": 0.372
+  },
+  {
+    "key": "humanevalcomm_80__q1__desc2",
+    "task_id": 80,
+    "variant": "q1__desc2",
+    "name": "is_happy",
+    "nb_candidates": 10,
+    "incoherence": 0.1
+  },
+  {
+    "key": "humanevalcomm_80__q1__oracle",
+    "task_id": 80,
+    "variant": "q1__oracle",
+    "name": "is_happy",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_80__q2__desc1",
+    "task_id": 80,
+    "variant": "q2__desc1",
+    "name": "is_happy",
+    "nb_candidates": 10,
+    "incoherence": 0.238
+  },
+  {
+    "key": "humanevalcomm_80__q2__desc2",
+    "task_id": 80,
+    "variant": "q2__desc2",
+    "name": "is_happy",
+    "nb_candidates": 10,
+    "incoherence": 0.501
+  },
+  {
+    "key": "humanevalcomm_80__q2__oracle",
+    "task_id": 80,
+    "variant": "q2__oracle",
+    "name": "is_happy",
+    "nb_candidates": 9,
+    "incoherence": 0.36,
+    "error": 0.22
+  },
+  {
+    "key": "humanevalcomm_80__q3__desc1",
+    "task_id": 80,
+    "variant": "q3__desc1",
+    "name": "is_happy",
+    "nb_candidates": 10,
+    "incoherence": 0.428
+  },
+  {
+    "key": "humanevalcomm_80__q3__desc2",
+    "task_id": 80,
+    "variant": "q3__desc2",
+    "name": "is_happy",
+    "nb_candidates": 10,
+    "incoherence": 0.254
+  },
+  {
+    "key": "humanevalcomm_80__q3__oracle",
+    "task_id": 80,
+    "variant": "q3__oracle",
+    "name": "is_happy",
+    "nb_candidates": 10,
+    "incoherence": 0.363,
+    "error": 0.653
+  },
+  {
+    "key": "humanevalcomm_81__q1__desc1",
+    "task_id": 81,
+    "variant": "q1__desc1",
+    "name": "numerical_letter_grade",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_81__q1__desc2",
+    "task_id": 81,
+    "variant": "q1__desc2",
+    "name": "numerical_letter_grade",
+    "nb_candidates": 10,
+    "incoherence": 0.106
+  },
+  {
+    "key": "humanevalcomm_81__q1__oracle",
+    "task_id": 81,
+    "variant": "q1__oracle",
+    "name": "numerical_letter_grade",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_81__q2__desc1",
+    "task_id": 81,
+    "variant": "q2__desc1",
+    "name": "numerical_letter_grade",
+    "nb_candidates": 7,
+    "incoherence": 0.24
+  },
+  {
+    "key": "humanevalcomm_81__q2__desc2",
+    "task_id": 81,
+    "variant": "q2__desc2",
+    "name": "numerical_letter_grade",
+    "nb_candidates": 10,
+    "incoherence": 0.019
+  },
+  {
+    "key": "humanevalcomm_81__q2__oracle",
+    "task_id": 81,
+    "variant": "q2__oracle",
+    "name": "numerical_letter_grade",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_81__q3__desc1",
+    "task_id": 81,
+    "variant": "q3__desc1",
+    "name": "numerical_letter_grade",
+    "nb_candidates": 10,
+    "incoherence": 0.13
+  },
+  {
+    "key": "humanevalcomm_81__q3__desc2",
+    "task_id": 81,
+    "variant": "q3__desc2",
+    "name": "numerical_letter_grade",
+    "nb_candidates": 10,
+    "incoherence": 0.116
+  },
+  {
+    "key": "humanevalcomm_81__q3__oracle",
+    "task_id": 81,
+    "variant": "q3__oracle",
+    "name": "numerical_letter_grade",
+    "nb_candidates": 10,
+    "incoherence": 0.111,
+    "error": 0.058
+  },
+  {
+    "key": "humanevalcomm_82__q1__desc1",
+    "task_id": 82,
+    "variant": "q1__desc1",
+    "name": "prime_length",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_82__q1__desc2",
+    "task_id": 82,
+    "variant": "q1__desc2",
+    "name": "prime_length",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_82__q1__oracle",
+    "task_id": 82,
+    "variant": "q1__oracle",
+    "name": "prime_length",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_82__q2__desc1",
+    "task_id": 82,
+    "variant": "q2__desc1",
+    "name": "prime_length",
+    "nb_candidates": 10,
+    "incoherence": 0.029
+  },
+  {
+    "key": "humanevalcomm_82__q2__desc2",
+    "task_id": 82,
+    "variant": "q2__desc2",
+    "name": "prime_length",
+    "nb_candidates": 10,
+    "incoherence": 0.214
+  },
+  {
+    "key": "humanevalcomm_82__q2__oracle",
+    "task_id": 82,
+    "variant": "q2__oracle",
+    "name": "prime_length",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_82__q3__desc1",
+    "task_id": 82,
+    "variant": "q3__desc1",
+    "name": "prime_length",
+    "nb_candidates": 10,
+    "incoherence": 0.211
+  },
+  {
+    "key": "humanevalcomm_82__q3__desc2",
+    "task_id": 82,
+    "variant": "q3__desc2",
+    "name": "prime_length",
+    "nb_candidates": 10,
+    "incoherence": 0.537
+  },
+  {
+    "key": "humanevalcomm_82__q3__oracle",
+    "task_id": 82,
+    "variant": "q3__oracle",
+    "name": "prime_length",
+    "nb_candidates": 10,
+    "incoherence": 0.438,
+    "error": 0.315
+  },
+  {
+    "key": "humanevalcomm_84__q1__desc1",
+    "task_id": 84,
+    "variant": "q1__desc1",
+    "name": "solve",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_84__q1__desc2",
+    "task_id": 84,
+    "variant": "q1__desc2",
+    "name": "solve",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_84__q1__oracle",
+    "task_id": 84,
+    "variant": "q1__oracle",
+    "name": "solve",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_84__q2__desc1",
+    "task_id": 84,
+    "variant": "q2__desc1",
+    "name": "solve",
+    "nb_candidates": 10,
+    "incoherence": 0.478
+  },
+  {
+    "key": "humanevalcomm_84__q2__desc2",
+    "task_id": 84,
+    "variant": "q2__desc2",
+    "name": "solve",
+    "nb_candidates": 10,
+    "incoherence": 0.46
+  },
+  {
+    "key": "humanevalcomm_84__q2__oracle",
+    "task_id": 84,
+    "variant": "q2__oracle",
+    "name": "solve",
+    "nb_candidates": 10,
+    "incoherence": 0.456,
+    "error": 0.302
+  },
+  {
+    "key": "humanevalcomm_84__q3__desc1",
+    "task_id": 84,
+    "variant": "q3__desc1",
+    "name": "solve",
+    "nb_candidates": 10,
+    "incoherence": 0.347
+  },
+  {
+    "key": "humanevalcomm_84__q3__desc2",
+    "task_id": 84,
+    "variant": "q3__desc2",
+    "name": "solve",
+    "nb_candidates": 10,
+    "incoherence": 0.187
+  },
+  {
+    "key": "humanevalcomm_84__q3__oracle",
+    "task_id": 84,
+    "variant": "q3__oracle",
+    "name": "solve",
+    "nb_candidates": 10,
+    "incoherence": 0.509,
+    "error": 0.601
+  },
+  {
+    "key": "humanevalcomm_86__q1__desc1",
+    "task_id": 86,
+    "variant": "q1__desc1",
+    "name": "anti_shuffle",
+    "nb_candidates": 7,
+    "incoherence": 0.33
+  },
+  {
+    "key": "humanevalcomm_86__q1__desc2",
+    "task_id": 86,
+    "variant": "q1__desc2",
+    "name": "anti_shuffle",
+    "nb_candidates": 10,
+    "incoherence": 0.358
+  },
+  {
+    "key": "humanevalcomm_86__q1__oracle",
+    "task_id": 86,
+    "variant": "q1__oracle",
+    "name": "anti_shuffle",
+    "nb_candidates": 10,
+    "incoherence": 0.129,
+    "error": 0.106
+  },
+  {
+    "key": "humanevalcomm_86__q2__desc1",
+    "task_id": 86,
+    "variant": "q2__desc1",
+    "name": "anti_shuffle",
+    "nb_candidates": 10,
+    "incoherence": 0.439
+  },
+  {
+    "key": "humanevalcomm_86__q2__desc2",
+    "task_id": 86,
+    "variant": "q2__desc2",
+    "name": "anti_shuffle",
+    "nb_candidates": 9,
+    "incoherence": 0.436
+  },
+  {
+    "key": "humanevalcomm_86__q2__oracle",
+    "task_id": 86,
+    "variant": "q2__oracle",
+    "name": "anti_shuffle",
+    "nb_candidates": 7,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_86__q3__desc1",
+    "task_id": 86,
+    "variant": "q3__desc1",
+    "name": "anti_shuffle",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_86__q3__desc2",
+    "task_id": 86,
+    "variant": "q3__desc2",
+    "name": "anti_shuffle",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_86__q3__oracle",
+    "task_id": 86,
+    "variant": "q3__oracle",
+    "name": "anti_shuffle",
+    "nb_candidates": 9,
+    "incoherence": 0.51,
+    "error": 0.338
+  },
+  {
+    "key": "humanevalcomm_8__q1__desc1",
+    "task_id": 8,
+    "variant": "q1__desc1",
+    "name": "sum_product",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_8__q1__desc2",
+    "task_id": 8,
+    "variant": "q1__desc2",
+    "name": "sum_product",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_8__q1__oracle",
+    "task_id": 8,
+    "variant": "q1__oracle",
+    "name": "sum_product",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_8__q2__desc1",
+    "task_id": 8,
+    "variant": "q2__desc1",
+    "name": "sum_product",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_8__q2__desc2",
+    "task_id": 8,
+    "variant": "q2__desc2",
+    "name": "sum_product",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_8__q2__oracle",
+    "task_id": 8,
+    "variant": "q2__oracle",
+    "name": "sum_product",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_8__q3__desc1",
+    "task_id": 8,
+    "variant": "q3__desc1",
+    "name": "sum_product",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_8__q3__desc2",
+    "task_id": 8,
+    "variant": "q3__desc2",
+    "name": "sum_product",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_8__q3__oracle",
+    "task_id": 8,
+    "variant": "q3__oracle",
+    "name": "sum_product",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_90__q1__desc1",
+    "task_id": 90,
+    "variant": "q1__desc1",
+    "name": "next_smallest",
+    "nb_candidates": 10,
+    "incoherence": 0.538
+  },
+  {
+    "key": "humanevalcomm_90__q1__desc2",
+    "task_id": 90,
+    "variant": "q1__desc2",
+    "name": "next_smallest",
+    "nb_candidates": 10,
+    "incoherence": 0.595
+  },
+  {
+    "key": "humanevalcomm_90__q1__oracle",
+    "task_id": 90,
+    "variant": "q1__oracle",
+    "name": "next_smallest",
+    "nb_candidates": 10,
+    "incoherence": 0.059,
+    "error": 0.085
+  },
+  {
+    "key": "humanevalcomm_90__q2__desc1",
+    "task_id": 90,
+    "variant": "q2__desc1",
+    "name": "next_smallest",
+    "nb_candidates": 10,
+    "incoherence": 0.652
+  },
+  {
+    "key": "humanevalcomm_90__q2__desc2",
+    "task_id": 90,
+    "variant": "q2__desc2",
+    "name": "next_smallest",
+    "nb_candidates": 10,
+    "incoherence": 0.697
+  },
+  {
+    "key": "humanevalcomm_90__q2__oracle",
+    "task_id": 90,
+    "variant": "q2__oracle",
+    "name": "next_smallest",
+    "nb_candidates": 10,
+    "incoherence": 0.676,
+    "error": 0.497
+  },
+  {
+    "key": "humanevalcomm_90__q3__desc1",
+    "task_id": 90,
+    "variant": "q3__desc1",
+    "name": "next_smallest",
+    "nb_candidates": 10,
+    "incoherence": 0.58
+  },
+  {
+    "key": "humanevalcomm_90__q3__desc2",
+    "task_id": 90,
+    "variant": "q3__desc2",
+    "name": "next_smallest",
+    "nb_candidates": 9,
+    "incoherence": 0.645
+  },
+  {
+    "key": "humanevalcomm_90__q3__oracle",
+    "task_id": 90,
+    "variant": "q3__oracle",
+    "name": "next_smallest",
+    "nb_candidates": 10,
+    "incoherence": 0.662,
+    "error": 0.753
+  },
+  {
+    "key": "humanevalcomm_91__q1__desc1",
+    "task_id": 91,
+    "variant": "q1__desc1",
+    "name": "is_bored",
+    "nb_candidates": 10,
+    "incoherence": 0.028
+  },
+  {
+    "key": "humanevalcomm_91__q1__desc2",
+    "task_id": 91,
+    "variant": "q1__desc2",
+    "name": "is_bored",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_91__q1__oracle",
+    "task_id": 91,
+    "variant": "q1__oracle",
+    "name": "is_bored",
+    "nb_candidates": 10,
+    "incoherence": 0.019,
+    "error": 0.021
+  },
+  {
+    "key": "humanevalcomm_91__q2__desc1",
+    "task_id": 91,
+    "variant": "q2__desc1",
+    "name": "is_bored",
+    "nb_candidates": 10,
+    "incoherence": 0.034
+  },
+  {
+    "key": "humanevalcomm_91__q2__desc2",
+    "task_id": 91,
+    "variant": "q2__desc2",
+    "name": "is_bored",
+    "nb_candidates": 8,
+    "incoherence": 0.012
+  },
+  {
+    "key": "humanevalcomm_91__q2__oracle",
+    "task_id": 91,
+    "variant": "q2__oracle",
+    "name": "is_bored",
+    "nb_candidates": 10,
+    "incoherence": 0.313,
+    "error": 0.193
+  },
+  {
+    "key": "humanevalcomm_91__q3__desc1",
+    "task_id": 91,
+    "variant": "q3__desc1",
+    "name": "is_bored",
+    "nb_candidates": 10,
+    "incoherence": 0.007
+  },
+  {
+    "key": "humanevalcomm_91__q3__desc2",
+    "task_id": 91,
+    "variant": "q3__desc2",
+    "name": "is_bored",
+    "nb_candidates": 9,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_91__q3__oracle",
+    "task_id": 91,
+    "variant": "q3__oracle",
+    "name": "is_bored",
+    "nb_candidates": 10,
+    "incoherence": 0.013,
+    "error": 0.015
+  },
+  {
+    "key": "humanevalcomm_92__q1__desc1",
+    "task_id": 92,
+    "variant": "q1__desc1",
+    "name": "any_int",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_92__q1__desc2",
+    "task_id": 92,
+    "variant": "q1__desc2",
+    "name": "any_int",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_92__q1__oracle",
+    "task_id": 92,
+    "variant": "q1__oracle",
+    "name": "any_int",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_92__q2__desc1",
+    "task_id": 92,
+    "variant": "q2__desc1",
+    "name": "any_int",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_92__q2__desc2",
+    "task_id": 92,
+    "variant": "q2__desc2",
+    "name": "any_int",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_92__q2__oracle",
+    "task_id": 92,
+    "variant": "q2__oracle",
+    "name": "any_int",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_92__q3__desc1",
+    "task_id": 92,
+    "variant": "q3__desc1",
+    "name": "any_int",
+    "nb_candidates": 10,
+    "incoherence": 0.462
+  },
+  {
+    "key": "humanevalcomm_92__q3__desc2",
+    "task_id": 92,
+    "variant": "q3__desc2",
+    "name": "any_int",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_92__q3__oracle",
+    "task_id": 92,
+    "variant": "q3__oracle",
+    "name": "any_int",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_93__q1__desc1",
+    "task_id": 93,
+    "variant": "q1__desc1",
+    "name": "encode",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_93__q1__desc2",
+    "task_id": 93,
+    "variant": "q1__desc2",
+    "name": "encode",
+    "nb_candidates": 10,
+    "incoherence": 0.309
+  },
+  {
+    "key": "humanevalcomm_93__q1__oracle",
+    "task_id": 93,
+    "variant": "q1__oracle",
+    "name": "encode",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_93__q2__desc1",
+    "task_id": 93,
+    "variant": "q2__desc1",
+    "name": "encode",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_93__q2__desc2",
+    "task_id": 93,
+    "variant": "q2__desc2",
+    "name": "encode",
+    "nb_candidates": 10,
+    "incoherence": 0.289
+  },
+  {
+    "key": "humanevalcomm_93__q2__oracle",
+    "task_id": 93,
+    "variant": "q2__oracle",
+    "name": "encode",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_93__q3__desc1",
+    "task_id": 93,
+    "variant": "q3__desc1",
+    "name": "encode",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_93__q3__desc2",
+    "task_id": 93,
+    "variant": "q3__desc2",
+    "name": "encode",
+    "nb_candidates": 10,
+    "incoherence": 0.076
+  },
+  {
+    "key": "humanevalcomm_93__q3__oracle",
+    "task_id": 93,
+    "variant": "q3__oracle",
+    "name": "encode",
+    "nb_candidates": 8,
+    "incoherence": 0.111,
+    "error": 0.06
+  },
+  {
+    "key": "humanevalcomm_94__q1__desc1",
+    "task_id": 94,
+    "variant": "q1__desc1",
+    "name": "skjkasdkd",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_94__q1__desc2",
+    "task_id": 94,
+    "variant": "q1__desc2",
+    "name": "skjkasdkd",
+    "nb_candidates": 10,
+    "incoherence": 0.001
+  },
+  {
+    "key": "humanevalcomm_94__q1__oracle",
+    "task_id": 94,
+    "variant": "q1__oracle",
+    "name": "skjkasdkd",
+    "nb_candidates": 10,
+    "incoherence": 0.002,
+    "error": 0.01
+  },
+  {
+    "key": "humanevalcomm_94__q2__desc1",
+    "task_id": 94,
+    "variant": "q2__desc1",
+    "name": "skjkasdkd",
+    "nb_candidates": 10,
+    "incoherence": 0.054
+  },
+  {
+    "key": "humanevalcomm_94__q2__desc2",
+    "task_id": 94,
+    "variant": "q2__desc2",
+    "name": "skjkasdkd",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_94__q2__oracle",
+    "task_id": 94,
+    "variant": "q2__oracle",
+    "name": "skjkasdkd",
+    "nb_candidates": 10,
+    "incoherence": 0.001,
+    "error": 0.013
+  },
+  {
+    "key": "humanevalcomm_94__q3__desc1",
+    "task_id": 94,
+    "variant": "q3__desc1",
+    "name": "skjkasdkd",
+    "nb_candidates": 10,
+    "incoherence": 0.06
+  },
+  {
+    "key": "humanevalcomm_94__q3__desc2",
+    "task_id": 94,
+    "variant": "q3__desc2",
+    "name": "skjkasdkd",
+    "nb_candidates": 9,
+    "incoherence": 0.226
+  },
+  {
+    "key": "humanevalcomm_94__q3__oracle",
+    "task_id": 94,
+    "variant": "q3__oracle",
+    "name": "skjkasdkd",
+    "nb_candidates": 10,
+    "incoherence": 0.043,
+    "error": 0.037
+  },
+  {
+    "key": "humanevalcomm_95__q1__desc1",
+    "task_id": 95,
+    "variant": "q1__desc1",
+    "name": "check_dict_case",
+    "nb_candidates": 1,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_95__q1__desc2",
+    "task_id": 95,
+    "variant": "q1__desc2",
+    "name": "check_dict_case",
+    "nb_candidates": 10,
+    "incoherence": 0.087
+  },
+  {
+    "key": "humanevalcomm_95__q1__oracle",
+    "task_id": 95,
+    "variant": "q1__oracle",
+    "name": "check_dict_case",
+    "nb_candidates": 8,
+    "incoherence": 0.0,
+    "error": 0.011
+  },
+  {
+    "key": "humanevalcomm_95__q2__desc2",
+    "task_id": 95,
+    "variant": "q2__desc2",
+    "name": "check_dict_case",
+    "nb_candidates": 8,
+    "incoherence": 0.193
+  },
+  {
+    "key": "humanevalcomm_95__q2__oracle",
+    "task_id": 95,
+    "variant": "q2__oracle",
+    "name": "check_dict_case",
+    "nb_candidates": 8,
+    "incoherence": 0.222,
+    "error": 0.119
+  },
+  {
+    "key": "humanevalcomm_95__q3__desc1",
+    "task_id": 95,
+    "variant": "q3__desc1",
+    "name": "check_dict_case",
+    "nb_candidates": 9,
+    "incoherence": 0.23
+  },
+  {
+    "key": "humanevalcomm_95__q3__desc2",
+    "task_id": 95,
+    "variant": "q3__desc2",
+    "name": "check_dict_case",
+    "nb_candidates": 5,
+    "incoherence": 0.447
+  },
+  {
+    "key": "humanevalcomm_95__q3__oracle",
+    "task_id": 95,
+    "variant": "q3__oracle",
+    "name": "check_dict_case",
+    "nb_candidates": 10,
+    "incoherence": 0.222,
+    "error": 0.304
+  },
+  {
+    "key": "humanevalcomm_96__q1__desc1",
+    "task_id": 96,
+    "variant": "q1__desc1",
+    "name": "count_up_to",
+    "nb_candidates": 10,
+    "incoherence": 0.008
+  },
+  {
+    "key": "humanevalcomm_96__q1__desc2",
+    "task_id": 96,
+    "variant": "q1__desc2",
+    "name": "count_up_to",
+    "nb_candidates": 10,
+    "incoherence": 0.002
+  },
+  {
+    "key": "humanevalcomm_96__q1__oracle",
+    "task_id": 96,
+    "variant": "q1__oracle",
+    "name": "count_up_to",
+    "nb_candidates": 10,
+    "incoherence": 0.008,
+    "error": 0.702
+  },
+  {
+    "key": "humanevalcomm_96__q2__desc1",
+    "task_id": 96,
+    "variant": "q2__desc1",
+    "name": "count_up_to",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_96__q2__desc2",
+    "task_id": 96,
+    "variant": "q2__desc2",
+    "name": "count_up_to",
+    "nb_candidates": 10,
+    "incoherence": 0.135
+  },
+  {
+    "key": "humanevalcomm_96__q2__oracle",
+    "task_id": 96,
+    "variant": "q2__oracle",
+    "name": "count_up_to",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_96__q3__desc1",
+    "task_id": 96,
+    "variant": "q3__desc1",
+    "name": "count_up_to",
+    "nb_candidates": 10,
+    "incoherence": 0.009
+  },
+  {
+    "key": "humanevalcomm_96__q3__desc2",
+    "task_id": 96,
+    "variant": "q3__desc2",
+    "name": "count_up_to",
+    "nb_candidates": 9,
+    "incoherence": 0.055
+  },
+  {
+    "key": "humanevalcomm_96__q3__oracle",
+    "task_id": 96,
+    "variant": "q3__oracle",
+    "name": "count_up_to",
+    "nb_candidates": 10,
+    "incoherence": 0.057,
+    "error": 0.745
+  },
+  {
+    "key": "humanevalcomm_97__q1__desc1",
+    "task_id": 97,
+    "variant": "q1__desc1",
+    "name": "multiply",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_97__q1__desc2",
+    "task_id": 97,
+    "variant": "q1__desc2",
+    "name": "multiply",
+    "nb_candidates": 1,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_97__q1__oracle",
+    "task_id": 97,
+    "variant": "q1__oracle",
+    "name": "multiply",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.246
+  },
+  {
+    "key": "humanevalcomm_97__q2__desc1",
+    "task_id": 97,
+    "variant": "q2__desc1",
+    "name": "multiply",
+    "nb_candidates": 3,
+    "incoherence": 0.606
+  },
+  {
+    "key": "humanevalcomm_97__q2__desc2",
+    "task_id": 97,
+    "variant": "q2__desc2",
+    "name": "multiply",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_97__q2__oracle",
+    "task_id": 97,
+    "variant": "q2__oracle",
+    "name": "multiply",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.233
+  },
+  {
+    "key": "humanevalcomm_97__q3__desc1",
+    "task_id": 97,
+    "variant": "q3__desc1",
+    "name": "multiply",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_97__q3__desc2",
+    "task_id": 97,
+    "variant": "q3__desc2",
+    "name": "multiply",
+    "nb_candidates": 10,
+    "incoherence": 0.2
+  },
+  {
+    "key": "humanevalcomm_97__q3__oracle",
+    "task_id": 97,
+    "variant": "q3__oracle",
+    "name": "multiply",
+    "nb_candidates": 10,
+    "incoherence": 0.422,
+    "error": 0.431
+  },
+  {
+    "key": "humanevalcomm_98__q1__desc1",
+    "task_id": 98,
+    "variant": "q1__desc1",
+    "name": "count_upper",
+    "nb_candidates": 2,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_98__q1__oracle",
+    "task_id": 98,
+    "variant": "q1__oracle",
+    "name": "count_upper",
+    "nb_candidates": 9,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_98__q2__desc1",
+    "task_id": 98,
+    "variant": "q2__desc1",
+    "name": "count_upper",
+    "nb_candidates": 2,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_98__q2__desc2",
+    "task_id": 98,
+    "variant": "q2__desc2",
+    "name": "count_upper",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_98__q2__oracle",
+    "task_id": 98,
+    "variant": "q2__oracle",
+    "name": "count_upper",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_98__q3__desc1",
+    "task_id": 98,
+    "variant": "q3__desc1",
+    "name": "count_upper",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_98__q3__oracle",
+    "task_id": 98,
+    "variant": "q3__oracle",
+    "name": "count_upper",
+    "nb_candidates": 7,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_99__q1__desc1",
+    "task_id": 99,
+    "variant": "q1__desc1",
+    "name": "closest_integer",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_99__q1__desc2",
+    "task_id": 99,
+    "variant": "q1__desc2",
+    "name": "closest_integer",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_99__q1__oracle",
+    "task_id": 99,
+    "variant": "q1__oracle",
+    "name": "closest_integer",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_99__q2__desc1",
+    "task_id": 99,
+    "variant": "q2__desc1",
+    "name": "closest_integer",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_99__q2__desc2",
+    "task_id": 99,
+    "variant": "q2__desc2",
+    "name": "closest_integer",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_99__q2__oracle",
+    "task_id": 99,
+    "variant": "q2__oracle",
+    "name": "closest_integer",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  },
+  {
+    "key": "humanevalcomm_99__q3__desc1",
+    "task_id": 99,
+    "variant": "q3__desc1",
+    "name": "closest_integer",
+    "nb_candidates": 9,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_99__q3__desc2",
+    "task_id": 99,
+    "variant": "q3__desc2",
+    "name": "closest_integer",
+    "nb_candidates": 10,
+    "incoherence": 0.0
+  },
+  {
+    "key": "humanevalcomm_99__q3__oracle",
+    "task_id": 99,
+    "variant": "q3__oracle",
+    "name": "closest_integer",
+    "nb_candidates": 10,
+    "incoherence": 0.0,
+    "error": 0.0
+  }
+]
