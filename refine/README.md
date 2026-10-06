@@ -24,6 +24,8 @@ For one coder LLM and one HumanEvalComm category (e.g. `1c`), the pipeline:
 7. **Score + aggregate**: the refined candidates are scored and averaged across runs. Error is only
    computed for the baseline and the `oracle` branch, because `desc1`/`desc2` encode a guessed
    answer, not the ground truth.
+8. **Analysis data**: the baseline and refined aggregates are combined into one file per category
+   for the statistical analysis (see [Analysis data](#analysis-data)).
 
 Every LLM step has the same three parts: **build** a request file (`*_request.jsonl`), **run** it
 to get a result file (`*_result.jsonl`), then **postprocess** the results into the experiment
@@ -40,7 +42,7 @@ folder. Each step reads the previous step's output.
 | `litellm_chat.py` | Runs a request file synchronously against a LiteLLM proxy (concurrent, rate-limited, resumable) |
 | `batch_processing.py` | OpenRouter Batch API submission/retrieval, and all `postprocess_*` functions |
 | `compute_stats.py` | Scores candidate files for incoherence and error using `difftrust` |
-| `data_analysis.py` | Aggregates per-run scores into `aggregate.json` |
+| `data_analysis.py` | Aggregates per-run scores into `aggregate.json`, and combines the baseline and refined aggregates into the analysis data files |
 | `run.py` | Entry point: the full pipeline as a sequence of commented-out steps |
 
 ## Setup
@@ -101,6 +103,7 @@ The pipeline is driven from [`refineHumanEvalComm/run.py`](refineHumanEvalComm/r
    | 6a | Refined candidates, coder branches | `build_refined_coder_candidates_batch` → `run_request_file` → `postprocess_refined_candidates` |
    | 6b | Refined candidates, oracle branch | `build_refined_oracle_candidates_batch` → `run_request_file` → `postprocess_refined_candidates` |
    | 6c | Score + aggregate | `score_phase(phase="refined")` → `aggregate_phase(phase="refined")` |
+   | 7 | Analysis data | `build_baseline_data` → `build_complete_data` |
 
    Step 2 depends on the baseline `aggregate.json`, because only tasks with incoherence > 0 are
    refined. Between steps 5 and 6b, review the audit flags in `questions_and_descriptions.json`.
@@ -126,20 +129,40 @@ The pipeline is driven from [`refineHumanEvalComm/run.py`](refineHumanEvalComm/r
 All output goes under `refineHumanEvalComm/<EXPERIMENT>/` (set by `EXPERIMENT` in `common.py`):
 
 ```
-<llm>/<category>/
-├── baseline_batch_request.jsonl / baseline_batch_result.jsonl(.gz)
-├── baseline/
-│   ├── run0 … run9/          # one candidate file per task + stats.json
-│   └── aggregate.json        # per-task mean incoherence / error across runs
-└── refined/
-    ├── questions_and_descriptions.json   # questions, desc1/desc2, oracle answer, audit flags
-    ├── *_batch_request.jsonl / *_batch_result.jsonl(.gz)   # one pair per LLM step
-    ├── run0 … run9/          # one candidate file per (task, question, branch) + stats.json
-    └── aggregate.json
+<llm>/
+├── analysis/
+│   ├── baseline_data_<category>.json   # every baseline task
+│   └── complete_data_<category>.json   # refined tasks with their baseline and all branches
+└── <category>/
+    ├── baseline_batch_request.jsonl / baseline_batch_result.jsonl(.gz)
+    ├── baseline/
+    │   ├── run0 … run9/          # one candidate file per task + stats.json
+    │   └── aggregate.json        # per-task mean incoherence / error across runs
+    └── refined/
+        ├── questions_and_descriptions.json   # questions, desc1/desc2, oracle answer, audit flags
+        ├── *_batch_request.jsonl / *_batch_result.jsonl(.gz)   # one pair per LLM step
+        ├── run0 … run9/          # one candidate file per (task, question, branch) + stats.json
+        └── aggregate.json
 ```
 
 Refined candidate files are named `humanevalcomm_<task_id>__<qkey>__<branch>`, where `branch` is
 `desc1`, `desc2` or `oracle`.
+
+### Analysis data
+
+`build_baseline_data` and `build_complete_data` in `data_analysis.py` read the two `aggregate.json`
+files of a category and write the analysis files to `<llm>/analysis/`:
+
+- **`baseline_data_<category>.json`**: every baseline task, with `task_id`, `name`, and the
+  per-run `incoherence_list` / `error_list` and their means.
+- **`complete_data_<category>.json`**: one entry per refined task, with its `baseline` block and a
+  `refined` block holding `q1_desc1`, `q1_desc2`, `q1_oracle`, … `q3_oracle`. The `desc1`/`desc2`
+  blocks contain incoherence only; the `oracle` blocks also contain error.
+
+A task is included in `complete_data` only if its baseline has a non-zero mean incoherence and all
+three questions (`q1`–`q3`) have `desc1`, `desc2` and `oracle` branches. Each metric list used for
+this check (baseline incoherence and error, `desc1`/`desc2` incoherence, `oracle` error) needs at
+least `MIN_VALID` (default 2) non-null runs, so that it can be used in the Mann-Whitney U test.
 
 ### Encrypted reasoning removed
 

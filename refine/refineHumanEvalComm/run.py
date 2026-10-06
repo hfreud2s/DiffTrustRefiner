@@ -7,7 +7,7 @@ from audit import (build_audit_oracle_batch, postprocess_audit_oracle)
 from batch_processing import (postprocess_baseline, postprocess_questions,
                               postprocess_descriptions, postprocess_oracle, postprocess_refined_candidates)
 from compute_stats import score_phase
-from data_analysis import aggregate_phase
+from data_analysis import aggregate_phase, build_baseline_data, build_complete_data
 from litellm_chat import run_request_file
 
 llm, cat = "Qwen3CoderNext", "1c"
@@ -69,3 +69,9 @@ if __name__ == "__main__":
     # 6c. Score + aggregate once the branches you want are in (reads whichever branches are present):
     #score_phase(llm, cat, phase="refined", workers=2)
     #aggregate_phase(llm, cat, phase="refined")
+
+    # 7. Analysis data - combine the baseline and refined aggregates into analysis/:
+    #     baseline_data_{cat}.json (every baseline task) and complete_data_{cat}.json (tasks with
+    #     non-zero baseline incoherence and all three questions complete in every branch).
+    #build_baseline_data(llm, cat)
+    #build_complete_data(llm, cat)
