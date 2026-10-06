@@ -44,6 +44,8 @@ folder. Each step reads the previous step's output.
 | `compute_stats.py` | Scores candidate files for incoherence and error using `difftrust` |
 | `data_analysis.py` | Aggregates per-run scores into `aggregate.json`, and combines the baseline and refined aggregates into the analysis data files |
 | `run.py` | Entry point: the full pipeline as a sequence of commented-out steps |
+| `analysis.ipynb` | Statistical analysis of the analysis data files for one model (see [Analysis notebook](#analysis-notebook)) |
+| `plot_style.py` | Colours and matplotlib settings for the notebook's plots |
 
 ## Setup
 
@@ -163,6 +165,24 @@ A task is included in `complete_data` only if its baseline has a non-zero mean i
 three questions (`q1`–`q3`) have `desc1`, `desc2` and `oracle` branches. Each metric list used for
 this check (baseline incoherence and error, `desc1`/`desc2` incoherence, `oracle` error) needs at
 least `MIN_VALID` (default 2) non-null runs, so that it can be used in the Mann-Whitney U test.
+
+### Analysis notebook
+
+[`refineHumanEvalComm/analysis.ipynb`](refineHumanEvalComm/analysis.ipynb) runs the statistical
+analysis on these files for one coder model. Set `MODEL` (and, if needed, `CATEGORIES` and the
+significance level `ALPHA`) in the first code cell, then run all cells. The notebook covers:
+
+1. Baseline incoherence vs. error (Spearman correlation)
+2. Error reduction per question, for all, marked and helpful questions
+3. Marking as a predictor of helpfulness (Fisher's exact test, confusion matrix, precision/recall)
+4. Incoherence reduction vs. error reduction (OLS fit, Pearson and Spearman correlation)
+5. Number of marked and helpful questions per task
+6. Question selection strategies (random vs. best marked question): expected error and hit rate
+7. Sensitivity of the results to the significance level
+
+All random choices (random question, ties between best questions) are replaced by their exact
+expectation, so the results do not depend on a seed. Plot colours and styles come from
+[`refineHumanEvalComm/plot_style.py`](refineHumanEvalComm/plot_style.py).
 
 ### Encrypted reasoning removed
 
